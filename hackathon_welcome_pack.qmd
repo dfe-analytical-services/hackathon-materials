@@ -1,0 +1,254 @@
+---
+title: "Hackathon Participant Guide - `r params$proj_name`"
+format: 
+  html:
+    embed-resources: true
+    toc: true
+engine: knitr
+params:
+  proj_name: "Project name"
+  proj_desc: "Project description"
+  proj_important: "This project is important because"
+  proj_solution: "This project will solve the problem by"
+  proj_data_1: "Data needed for the project..."
+  proj_data_2: "Data availability..."
+  proj_code: "Existing code available..."
+  proj_tools: "Tools to use for the project..."
+  proj_know: "A subject knowledge expert will/will not be available"
+  proj_real: "Realistic expectations for the project..."
+  proj_chall: "Known challenges and limitations..."
+  proj_info: "Other information about the project..."
+  proj_datacamp: "Data camp courses you can use ..."
+  proj_other_resources: "Other resources you can use ..."
+  proj_skills: "Skills you will develop by working on this project"
+editor: visual
+---
+
+{{< include "event_details_agenda.qmd" >}}
+
+## 💡 Project Information - `r params$proj_name` {#project-info}
+
+::: callout-tip
+These details are provided by the teams who proposed the project. You can use this section to help you plan your project and your presentation.
+:::
+
+### The problem the project aims to solve
+
+`r params$proj_desc`
+
+### Why is this project important/interesting to explore
+
+`r params$proj_important`
+
+### Skills you will develop by working on this project
+
+`r params$proj_skills`
+
+### Known challenges and limitations to the project
+
+```{r, results='asis', echo=FALSE}
+
+if (params$proj_chall == "") {
+  cat("No known challenges or limitations were provided for this project.\n")
+} else {
+  cat(params$proj_chall, "\n")
+}
+
+```
+
+### Vision for the project by end of hackathon
+
+::: callout-tip
+This is the vision that the team who proposed the project had in mind for the end result of the hackathon. However, if you have a different idea for the end result that would work better, we encourage you to go with your idea
+:::
+
+```{r, results='asis', echo=FALSE}
+
+if (params$proj_real == "") {
+  cat("The team who proposed this project did not have a specific vision for the end product of this project.\n")
+} else {
+  cat(params$proj_real, "\n")
+}
+
+```
+
+## 🛠 Data and tools
+
+### Data you need
+
+::: callout-tip
+This is the data you will need to use for the project. This information was provided by the team who proposed the project.
+:::
+
+#### Data information
+
+`r params$proj_data_1`
+
+#### Data access
+
+`r params$proj_data_2`
+
+### Is there existing code you can use?
+
+```{r, results='asis', echo=FALSE}
+
+if (params$proj_code == "") {
+  cat("No existing code is available for this project.\n")
+} else {
+  cat(params$proj_code, "\n")
+}
+
+```
+
+### Coding languages and programmes you can use
+
+::: callout-tip
+The following are tools suggested by the team that proposed the project to help you get started. Feel free to use tools that suit you and your team.
+:::
+
+```{r, results='asis', echo=FALSE}
+
+if (params$proj_tools == "") {
+  cat("No specific tools are required for this project.\n")
+} else {
+  cat(params$proj_tools, "\n")
+}
+
+```
+
+### Project planning tools
+
+::: callout-tip
+Only one person per team should follow the instructions for the tool of choice and share it with everyone in their team. The tools listed below are some suggestions to help with project planning that you can use. Feel free to use any other tools that suit you and your team.
+:::
+
+#### Miroboard
+
+1.  Each team member will need to [create an account](https://miro.com/signup/)with their DfE email to use this service if they don't already have one.
+
+2.  Go to the [Miro board template](https://miro.com/app/board/uXjVJWtSJ0c=/?share_link_id=680584981230).
+
+3.  Click the three vertical dots next to the template title at the top left hand side
+
+4.  Click 'Board' \> 'Duplicate'
+
+5.  A pop-up will appear where you can edit the name of the board to suit your project and team name
+
+6.  Click the 'Share' button at the top right hand side and share the board with the rest of your team members.
+
+#### Lucid
+
+::: callout-warning
+If any of your team members don't have a Lucid licence and only have a free account, they may not be able to edit the board. If that is the case, we recommend using Miro instead.
+:::
+
+1.  Each team member will need to [create an account](https://lucid.app/users/login#/login) or login with their DfE email to use this service if they don't already have one.
+
+2.  Go to the [Lucid board template](https://lucid.app/lucidspark/cd253962-721f-4f82-bbe1-e8c12871f9da/editNew?invitationId=inv_46e3df8a-e271-4363-abb6-a3d0518b829c).
+
+3.  Click the 'Share' button at the top right hand side and share the board with the rest of your team members.
+
+#### Trello
+
+::: callout-warning
+This project planning tool doesn't have the team introduction part that the Miro and Lucid boards have.
+:::
+
+1.  Each team member will need to [create an account](https://id.atlassian.com/signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3Fdisplay%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26createMember%3Dtrue&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D) to use this service if they don't already have one.
+
+2.  Decide whether to use the [Simple Project Board template](https://trello.com/b/6QW0Ciu8) OR the [Amazing Kanban Project Management Template](https://trello.com/b/WHOzj88m).
+
+3.  Click on 'Create board from template' at the top of the screen.
+
+4.  Share the board with your team members.
+
+## 🤝 Support available
+
+### Support for data background about the project
+
+```{r, results='asis', echo=FALSE}
+
+if (params$proj_know == "") {
+  cat("No subject matter expert is available for this project.\n")
+} else {
+  cat(params$proj_know, "\n")
+}
+
+```
+
+### Online courses and resources to help upskill
+
+#### DataCamp
+
+::: callout-tip
+Don't have a DataCamp license? Email Lisa Smyth at [datacamp.requests\@education.gov.uk](mailto:datacamp.requests@education.gov.uk) ccing your line manager to get your license before the hackathon!
+:::
+
+```{r, results='asis', echo=FALSE}
+
+if (params$proj_datacamp == "") {
+  cat("No DataCamp courses were provided for this project.\n")
+} else {
+
+sen <- stringr::str_split_1(params$proj_datacamp, ";")
+
+  for (i in sen){
+    
+    cat("- ", i,"\n")
+  }}
+```
+
+#### Other resources
+
+```{r other_resources , results='asis', echo=FALSE}
+
+if (isTRUE(nzchar(params$proj_other_resources))) {
+  sen <- stringr::str_split_1(params$proj_other_resources, ";")
+  for (i in sen) {
+    cat("- ", i, "\n")
+  }
+} else {
+  cat("No other resources were provided for this project.\n")
+}
+
+
+
+```
+
+### Teams chat and volunteers
+
+We have a group of volunteers to support you with your projects. Some volunteers are running drop-in sessions for the technical aspects of the projects. Find out more information about the drop-in sessions in the [agenda section](#agenda).
+
+If you have any quick questions , please post them in the [Help and support](https://teams.microsoft.com/l/channel/19%3A5a57b51811a74da694ee272057caebac%40thread.tacv2/Help%20and%20support?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) channel on [Pre-stats awayday hackathon](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) on Teams. Volunteers will be monitoring the channel and will try to answer your questions as soon as possible. We also encourage you to help each other out in the channel.
+
+#### Tech volunteers
+
+::: callout-tip
+If you have a question or a technical issue with any of the areas below, please post them in the Help and support channel on Pre-stats awayday hackathon on Teams while using '\@' to tag the relevant volunteers.
+:::
+
+{{< include "tech_volunteer_list.qmd" >}}
+
+### Ideas for solutions
+
+::: callout-tip
+The following is a suggestion by the team that proposed the project to help you get started. Feel free to change it or come up with your own ideas.
+:::
+
+`r params$proj_solution`
+
+## 🎤 Your presentation
+
+Your team will be presenting your project at the end of the hackathon and at the DfE Stats awayday. The presentation should be no longer than 7 minutes and should include:
+
+-   **Team name and members**: Introduce your team and the project name.
+-   **Problem statement**: What problem are you trying to solve?
+-   **Solution summary**: A high-level explanation of your solution.
+-   **Technology used**: What coding languages, APIs, or other technologies did you use?
+-   **Challenges faced and CPD reflection**: What roadblocks did you encounter and how did you overcome them? Were any of the courses you took useful? How did you apply your learning?
+-   **Future improvements**: What would you do if you had more time? Any improvements or different approaches?
+-   **Demo**: If applicable, a demonstration of your solution.
+
+::: callout-tip
+Use the [project information](#project-info) section to help support with your presentation.
+:::

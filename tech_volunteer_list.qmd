@@ -1,0 +1,9 @@
+| Area of expertise | Volunteer(s) |
+|------------------|------------------------------------------------------|
+| Git | Lara Eddington, Lauren Snaarthorst and Menna Zayed |
+| RShiny | Rich Bielby, Cam Race and Menna Zayed |
+| R data manipulation | Lara Eddington, Lauren Snaarthorst and Menna Zayed |
+| Automated QA | Rich Bielby, Lara Eddington, Cam Race, Lauren Snaarthorst and Menna Zayed |
+| LLMs | Philip Ovington |
+| EES API | Rich Bielby and Cam Race |
+| Python | Mohamed Zayed |
