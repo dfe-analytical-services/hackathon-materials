@@ -1,55 +1,148 @@
 ---
 title: "Hackathon Kickoff!"
+title-slide-attributes:
+  data-background-position: top
+  data-background-image: images/sanctuary-buildings.jpg
+  data-background-size: cover
+  data-background-opacity: "0.1"
+author: "Menna Zayed"
+institute: Department for Education
 format:
   revealjs:
-    width: 1060
-    height: 900
-    minScale: 0.2
-    maxScale: 2.0
-    self-contained: true
-    theme: night
+   theme: [dark, dfe-quarto-slides.scss]
+   width: 1060
+   height: 900
+   minScale: 0.2
+   maxScale: 3.0
+   logo: images/DfE_logo_landscape.svg
+   self-contained: true
 ---
 
 ## Welcome to the pre-stats awayday hackathon!
 
--   Welcome everyone! We're thrilled to have you here.!
+::::: columns
+::: {.column width="60%"}
+-   Welcome everyone! We're thrilled to have you here!
 
 -   Get ready for 2 days of upskilling, creativity, collaboration, and innovation.
 
 -   Over the next two days, you will be working on a project that you will present here and in the stats awayday on the 11th of September.
+:::
 
-## Hackatghon Guide
+::: {.column width="40%"}
+![](images/hackathon_fred.png)
+:::
+:::::
 
-INSERT SCREENSHOT
+## Meet the organisers and volunteers {.smaller}
 
+::: panel-tabset
+### Organisers
+
+|                  |
+|------------------|
+| Menna Zayed      |
+| Charlotte Foster |
+| Matthew Robinson |
+
+### Data background / Subject expert volunteers
+
+{{< include "data_volunteer_list.qmd" >}}
+
+### Technical volunteers
+
+{{< include "tech_volunteer_list.qmd" >}}
+:::
+
+## Your teams and projects
+
+
+::: panel-tabset
+
+## Persistent Absence Explorer
+
+| Persistent Absence Explorer |              |
+|-----------------------------|--------------|
+| **Team member**             | **Location** |
+| Grace TAYLOR-JOYCE          | Coventry     |
+| Robert TARRANT              | London       |
+| Finn TRINCI                 | London       |
+|                             |              |
+
+## Form-to-Report Generator
+
+| Form-to-Report Generator |              |
+|--------------------------|--------------|
+| **Team member**          | **Location** |
+| Sarah M-BRIGHT           | London       |
+| Cheena GHATAOURA         | London       |
+| Rebecca WEDGE-ROBERTS    | Sheffield    |
+
+
+## Automated QA of Schools, pupils and their characteristics/SEN
+
+| Automated QA of Schools, pupils and their characteristics/SEN |   |
+|----|----|
+| **Team member** | **Location** |
+| Kester JARVIS | Virtual on Weds/London on Thurs |
+| Nathan CHALAM-JUDGE | Sheffield |
+|  |  |
+|  |  |
+
+## Using LLMs for Third-Line QA on Statistical Releases
+
+| Using LLMs for Third-Line QA on Statistical Releases |              |
+|------------------------------------------------------|--------------|
+| **Team member**                                      | **Location** |
+| Jake TUFTS                                           | London       |
+|                                                      |              |
+|                                                      |              |
+
+## Developing a Historical School Identifier Dimension
+
+| Developing a Historical School Identifier Dimension |              |
+|-----------------------------------------------------|--------------|
+| **Team member**                                     | **Location** |
+| Connor BOUSFIELD                                    | Darlington   |
+|                                                     |              |
+|                                                     |              |
+|                                                     |              |
+
+
+
+## New Insights on User Analytics for EES
+
+| New Insights on User Analytics for EES |              |
+|----------------------------------------|--------------|
+| **Team member**                        | **Location** |
+| Hasan MALIK                            | Coventry     |
+|                                        |              |
+|                                        |              |
+|                                        |              |
+:::
+
+## Hackathon Participant Guide
+
+::::: columns
+::: {.column width="60%"}
 -   This guide was emailed to you before today
 
 -   You can also find it in the Hackathon MS Team resources.
 
-## Agenda
+-   Check the file you have and ensure you have the correct one for your project by checking the project name next to the title.
 
-### 📅 Day 1 – 3rd September 2025
+-   It contains all the information you need to get started with your project and you can access different sections easily through the TOC.
+:::
 
-1.  🟢**Welcome & Kickoff**
+::: {.column width="40%"}
+![](images/overall_hackathon_guide.png)
+:::
+:::::
 
-2.  🧠**Project Planning**
+## Event details and Code of conduct
 
-3.  ☕ **Morning Break**
-
-4.  💻 **Hacking Session #1**
-
-5.  🍽️ **Lunch Break**
-
-6.  💬 **Team Check-In**
-
-7.  💻 **Hacking Session #2**
-
-8.  ☕ **Afternoon Break**
-
-9.  💬 **Team Check-In & Wrap-Up**
-
-## Hackathon Guide - Event details
-
+:::::: columns
+:::: {.column width="60%"}
 -   A section that summarises the event details and links to our code of conduct.
 
 -   Please make sure to read it and follow it as we want to create a friendly and welcoming environment for everyone.
@@ -69,32 +162,87 @@ To help create a positive and collaborative environment, we ask all participants
 
 -   Help foster a fun and supportive atmosphere
 :::
+::::
 
+::: {.column width="40%"}
+![](images/event_details.png)
+:::
+::::::
 
-## Hackathon Guide - Agenda:
+## Agenda:
 
-The plans for both days and can be accessed through the tabsets
+::::: columns
+::: {.column width="40%"}
+You can find the following information for both days and can be accessed through the clickable tabsets:
 
-INSERT SCREENSHOT HERE OR DEMO
+-   Rooms booked for each location for both days
+-   Agenda for each day with details for each session and MS Teams links for the drop in sessions
+:::
 
-## Hackathon Guide - Project information:
+::: {.column width="60%"}
+![](images/agenda_and_rooms.png)
+:::
+:::::
 
-Read through all the project information. We worked with the teams who proposed the projects to give you as many resources as we can to support you with your projects.
+## 📅 Day 1 – 3rd September 2025
 
--   The problem the project aims to solve
+1.  🟢**Welcome & Kickoff**
 
--   Skills you will develop by working on this project
+2.  🧠**Project Planning**
 
--   Known challenges and limitations
+3.  💻 **Hacking Session #1**
 
--   Vision for the project by the end of the hackathon
+4.  🍽️ **Lunch Break**
 
-## Hackathon Guide - Data and tools
+5.  💬 **Team Check-In**
 
-Links to where you can find the data you need and how to access it and suggestions for tools you can use.
+6.  💻 **Hacking Session #2**
 
-## Hackathon Guide - Support available:
+7.  ☕ **Afternoon Break**
 
+8.  💬 **Team Check-In & Wrap-Up**
+
+## Project information:
+
+::::: columns
+::: {.column width="60%"}
+-   Make sure to read through all the project information.
+
+-   You will find the following information in this section:
+
+    -   The problem the project aims to solve.
+
+    -   Skills you will develop by working on this project.
+
+    -   Known challenges and limitations.
+
+    -   Vision for the project by the end of the hackathon - this will help you plan your project and set expectations.
+:::
+
+::: {.column width="40%"}
+![](images/project_info.png)
+:::
+:::::
+
+## Data and tools
+
+::::: columns
+::: {.column width="60%"}
+Use this section for:
+
+-   Links to pages where you can find the data you need information on how to access it.
+-   Suggestions for tools you can use.
+:::
+
+::: {.column width="40%"}
+![](images/data_and_tools.png)
+:::
+:::::
+
+## Support available:
+
+::::: columns
+::: {.column width="60%"}
 -   Links to DataCamp courses
 
 -   Links to other resources
@@ -106,14 +254,22 @@ Links to where you can find the data you need and how to access it and suggestio
     -   We encourage you to use the 'Help and Support' channel to ask questions.
 
     -   Volunteers will try to answer when they're available and we also encourage you to support each other.
+:::
 
-## Hackathon Guide - Your presentation
+::: {.column width="40%"}
+![](images/support_available.png)
+:::
+:::::
+
+## Your presentation
 
 -   You will get to present at the end of the two day hackathon and also present at the stats awayday!
 
 -   We provided a guided structure to help you create your presentation.
 
-## Volunteers and organisers
+::: callout-important
+The presentation should be from 5 - 10 minutes maximum. Ensure to allow time for questions at the end.
+:::
 
 ## Let's get started!
 
@@ -121,14 +277,22 @@ Links to where you can find the data you need and how to access it and suggestio
 
 2.  Set up a call with your team to plan your project
 
-3.  Things to consider:
+3.  Decide on your project planning tool
 
-    -   Project planning tools
+4.  Complete the 'Meet your team!' activity. You will find it on the Miro and Lucid boards or a link to a modified version if you choose Trello instead.
 
-    -   The coding language you will use
+::: callout-tip
+## Things to consider:
 
-    -   Break down the project and assign parts to different members
+```         
+-   Project planning tools
 
-    -   How you can utilize different people's expertise while still pushing for development
+-   The coding language you will use
 
-    -   Make sure to set up calls for the team check-ins scheduled in the agenda
+-   Break down the project and assign parts to different members
+
+-   How you can utilize different people's expertise while still pushing for development
+
+-   Make sure to set up calls for the team check-ins scheduled in the agenda
+```
+:::

@@ -1,0 +1,61 @@
+## Form-to-Report Generator
+
+| Form-to-Report Generator |              |
+|--------------------------|--------------|
+| **Team member**          | **Location** |
+| Sarah M-BRIGHT           | London       |
+| Cheena GHATAOURA         | London       |
+| Rebecca WEDGE-ROBERTS    | Sheffield    |
+|                          |              |
+
+
+
+## Persistent Absence Explorer
+
+| Persistent Absence Explorer |              |
+|-----------------------------|--------------|
+| **Team member**             | **Location** |
+| Grace TAYLOR-JOYCE          | Coventry     |
+| Robert TARRANT              | London       |
+| Finn TRINCI                 | London       |
+|                             |              |
+
+## Using LLMs for Third-Line QA on Statistical Releases
+
+| Using LLMs for Third-Line QA on Statistical Releases |              |
+|------------------------------------------------------|--------------|
+| **Team member**                                      | **Location** |
+| Jake TUFTS                                           | London       |
+|                                                      |              |
+|                                                      |              |
+|                                                      |              |
+
+## Automated QA of Schools, pupils and their characteristics/SEN
+
+| Automated QA of Schools, pupils and their characteristics/SEN |   |
+|----|----|
+| **Team member** | **Location** |
+| Kester JARVIS | Virtual on Weds/London on Thurs |
+| Nathan CHALAM-JUDGE | Sheffield |
+|  |  |
+|  |  |
+
+## Developing a Historical School Identifier Dimension
+
+| Developing a Historical School Identifier Dimension |              |
+|-----------------------------------------------------|--------------|
+| **Team member**                                     | **Location** |
+| Connor BOUSFIELD                                    | Darlington   |
+|                                                     |              |
+|                                                     |              |
+|                                                     |              |
+
+## New Insights on User Analytics for EES
+
+| New Insights on User Analytics for EES |              |
+|----------------------------------------|--------------|
+| **Team member**                        | **Location** |
+| Hasan MALIK                            | Coventry     |
+|                                        |              |
+|                                        |              |
+|                                        |              |
