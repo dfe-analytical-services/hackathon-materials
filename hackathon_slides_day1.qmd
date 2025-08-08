@@ -18,6 +18,14 @@ format:
 
 -   Over the next two days, you will be working on a project that you will present here and in the stats awayday on the 11th of September.
 
+## Hackatghon Guide
+
+INSERT SCREENSHOT
+
+-   This guide was emailed to you before today
+
+-   You can also find it in the Hackathon MS Team resources.
+
 ## Agenda
 
 ### 📅 Day 1 – 3rd September 2025
@@ -62,13 +70,6 @@ To help create a positive and collaborative environment, we ask all participants
 -   Help foster a fun and supportive atmosphere
 :::
 
-## Hackatghon Guide
-
-INSERT SCREENSHOT
-
--   This guide was emailed to you before today
-
--   You can also find it in the Hackathon MS Team resources.
 
 ## Hackathon Guide - Agenda:
 
