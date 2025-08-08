@@ -21,7 +21,6 @@ params:
   proj_datacamp: "Data camp courses you can use ..."
   proj_other_resources: "Other resources you can use ..."
   proj_skills: "Skills you will develop by working on this project"
-editor: visual
 ---
 
 {{< include "event_details_agenda.qmd" >}}
@@ -59,7 +58,7 @@ if (params$proj_chall == "") {
 ### Vision for the project by end of hackathon
 
 ::: callout-tip
-This is the vision that the team who proposed the project had in mind for the end result of the hackathon. However, if you have a different idea for the end result that would work better, we encourage you to go with your idea
+This is the vision that the team who proposed the project had in mind for the end result of the hackathon. However, if you have a different idea for the end result that would work better, we encourage you to go with your idea.
 :::
 
 ```{r, results='asis', echo=FALSE}
@@ -128,13 +127,13 @@ Only one person per team should follow the instructions for the tool of choice a
 
 2.  Go to the [Miro board template](https://miro.com/app/board/uXjVJWtSJ0c=/?share_link_id=680584981230).
 
-3.  Click the three vertical dots next to the template title at the top left hand side
+3.  Click the three vertical dots next to the template title at the top left-hand side
 
 4.  Click 'Board' \> 'Duplicate'
 
 5.  A pop-up will appear where you can edit the name of the board to suit your project and team name
 
-6.  Click the 'Share' button at the top right hand side and share the board with the rest of your team members.
+6.  Click the 'Share' button at the top right-hand side and share the board with the rest of your team members.
 
 #### Lucid
 
@@ -146,12 +145,12 @@ If any of your team members don't have a Lucid licence and only have a free acco
 
 2.  Go to the [Lucid board template](https://lucid.app/lucidspark/cd253962-721f-4f82-bbe1-e8c12871f9da/editNew?invitationId=inv_46e3df8a-e271-4363-abb6-a3d0518b829c).
 
-3.  Click the 'Share' button at the top right hand side and share the board with the rest of your team members.
+3.  Click the 'Share' button at the top right-hand side and share the board with the rest of your team members.
 
 #### Trello
 
 ::: callout-warning
-This project planning tool doesn't have the team introduction part that the Miro and Lucid boards have.
+This project planning tool doesn't have the 'Get to know your team!" part that the Miro and Lucid boards have. Please find [modified instructions for the activity in this document](https://educationgovuk.sharepoint.com/:u:/r/sites/lveesfa00074/SSU%20%20Open%20sharing/Away%20days/2025%20statistics%20away%20day/Hackathon_2025/ice_breaker.html?csf=1&web=1&e=Fhlk1W).
 :::
 
 1.  Each team member will need to [create an account](https://id.atlassian.com/signup?application=trello&continue=https%3A%2F%2Ftrello.com%2Fauth%2Fatlassian%2Fcallback%3Fdisplay%3DeyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%253D%253D%26createMember%3Dtrue&display=eyJ2ZXJpZmljYXRpb25TdHJhdGVneSI6InNvZnQifQ%3D%3D) to use this service if they don't already have one.
@@ -164,7 +163,7 @@ This project planning tool doesn't have the team introduction part that the Miro
 
 ## 🤝 Support available
 
-### Support for data background about the project
+### Support for data background about the project {#data-background}
 
 ```{r, results='asis', echo=FALSE}
 
@@ -215,17 +214,24 @@ if (isTRUE(nzchar(params$proj_other_resources))) {
 
 ```
 
-### Teams chat and volunteers
+### Teams chat and technical volunteers
 
-We have a group of volunteers to support you with your projects. Some volunteers are running drop-in sessions for the technical aspects of the projects. Find out more information about the drop-in sessions in the [agenda section](#agenda).
+We have a group of volunteers to support you with your projects. Some volunteers are running drop-in sessions for the technical aspects of the projects. You can find the MS Teams link for the drop-in sessions and more information in the [agenda section](#agenda).
 
-If you have any quick questions , please post them in the [Help and support](https://teams.microsoft.com/l/channel/19%3A5a57b51811a74da694ee272057caebac%40thread.tacv2/Help%20and%20support?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) channel on [Pre-stats awayday hackathon](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) on Teams. Volunteers will be monitoring the channel and will try to answer your questions as soon as possible. We also encourage you to help each other out in the channel.
-
-#### Tech volunteers
+If there is a data expert volunteer for your project, you can find out more information about them in the [Support for data background about the project section](#data-background) of this document. You can contact them through the [Pre-stats awayday hackathon group](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) on Teams or by dropping them a message.
 
 ::: callout-tip
-If you have a question or a technical issue with any of the areas below, please post them in the Help and support channel on Pre-stats awayday hackathon on Teams while using '\@' to tag the relevant volunteers.
+If you have a question or a technical issue, please post them in the [Help and support](https://teams.microsoft.com/l/channel/19%3A5a57b51811a74da694ee272057caebac%40thread.tacv2/Help%20and%20support?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) channel in the [Pre-stats awayday hackathon group](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) on Teams while using '\@' to tag the relevant volunteers. We also encourage you to help each other out in the channel.
 :::
+
+#### Technical volunteers
+
+::: callout-important
+
+Our volunteers might not be able to respond to your message right away, as they could be assisting someone else. We really appreciate your patience and kindness while waiting for a reply!
+
+:::
+
 
 {{< include "tech_volunteer_list.qmd" >}}
 
@@ -239,7 +245,11 @@ The following is a suggestion by the team that proposed the project to help you 
 
 ## 🎤 Your presentation
 
-Your team will be presenting your project at the end of the hackathon and at the DfE Stats awayday. The presentation should be no longer than 7 minutes and should include:
+::: callout-important
+The presentation should be from 5 - 10 minutes maximum. Ensure to allow time for questions at the end.
+:::
+
+Your team will be presenting your project at the end of the hackathon and at the DfE Stats awayday and your presentation should include:
 
 -   **Team name and members**: Introduce your team and the project name.
 -   **Problem statement**: What problem are you trying to solve?

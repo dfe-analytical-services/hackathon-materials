@@ -68,14 +68,14 @@ for ( i in unique(hack_proj_data$project)) {
 
  # Render the Quarto document
  quarto::quarto_render(
-   input = "hackathon_welcome_pack.qmd",
+   input = "participant_pack.qmd",
    execute_params = params,
    output_file = output_file
  )
  
  # Define source and destination paths
  source_path <- file.path(output_file)
- destination_path <- file.path("welcome_packs", output_file)
+ destination_path <- file.path("participant_packs", output_file)
  
  # Move the file
  file.rename(source_path, destination_path)
