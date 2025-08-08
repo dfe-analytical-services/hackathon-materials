@@ -38,11 +38,7 @@ We asked participants to post their questions in the [Help and support](https://
 
 -   Be available to answer questions on teams.
 
-| Project | Expert |
-|-----------------------------------------|-------------------------------------|
-| Persistent Absence Explorer (EES API) | Tom Curd |
-| Developing a Historical School Identifier Dimension | Pennie Vargas (availability on the 3rd Sept - TBC) |
-| Automated QA of Schools, pupils and their characteristics / SEN | TBC |
+{{< include "data_volunteer_list.qmd" >}}
 
 ### 💻 Tech Volunteers
 
@@ -87,7 +83,7 @@ We asked participants to post their questions in the [Help and support](https://
 -   Know who to escalate issues to (e.g., organizers, tech/data volunteers).
 
 | Group/project | Volunteer |
-|---------------------------------------------|------------------------------------------|
+|-------------------------------------|-----------------------------------|
 | Automated QA of Schools pupils nd their characteristics / SEN | Lauren Snaathorst |
 | Developing a Historical School Identifier Dimension | Rich Bielby |
 | Form to Report Generator | Lara Eddington |
