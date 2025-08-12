@@ -123,7 +123,7 @@ Only one person per team should follow the instructions for the tool of choice a
 
 #### Miroboard
 
-1.  Each team member will need to [create an account](https://miro.com/signup/)with their DfE email to use this service if they don't already have one.
+1.  Each team member will need to [create an account](https://miro.com/signup/) with their DfE email to use this service if they don't already have one.
 
 2.  Go to the [Miro board template](https://miro.com/app/board/uXjVJWtSJ0c=/?share_link_id=680584981230).
 
@@ -160,6 +160,47 @@ This project planning tool doesn't have the 'Get to know your team!" part that t
 3.  Click on 'Create board from template' at the top of the screen.
 
 4.  Share the board with your team members.
+
+### Code sharing - GitHub
+
+
+::: callout-tip
+
+No experience using Git or would like a refresher? Use [Git Academy](https://dfe-analytical-services.github.io/git-academy/), a self-directed training resource to help upskill in Git.
+
+:::
+
+GitHub will be the primary platform for collaborating on code, managing project files, and tracking progress during the Hackathon. Whether you're a seasoned developer or new to version control, GitHub helps teams stay organised and work efficiently, especially in a hybrid setting.
+
+#### Why Use GitHub?
+
+::: callout-tip
+
+Please set your repos for the projects to private and invite your team mates as collaboraters. Use the [Useful GitHub Links section](#useful-github-links) to get more information on how to do this.
+
+:::
+
+- **Collaboration**: Work together in real time, even if you're in different locations.
+- **Version Control**: Keep track of changes, revert to previous versions, and avoid overwriting each other’s work.
+- **Transparency**: Everyone can see what’s being worked on and contribute where needed.
+- **Documentation**: Use README files and issues to explain your project and track tasks. You can use this [README template](https://github.com/dfe-analytical-services/dfeR/blob/398cc760fc431e95f81a1e7ca18a042115b672d0/inst/README_template.md#L4) to help you get started.
+- **Showcase and share your work**: At the end of the Hackathon, your GitHub repo becomes a portfolio piece you can share with the team that proposed the project.
+
+#### Useful GitHub Links
+
+- [GitHub Sign Up](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github#signing-up-for-a-new-personal-account) – Create an account if you don’t have one yet.
+- [Creating a new repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
+- [Inviting collaborators to a personal repository](https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
+
+
+#### Tips for Getting Started
+
+- Make sure your team sets up a shared repository early on.
+- Use branches for individual features or experiments.
+- Commit often with clear messages.
+- Use issues or project boards to track tasks and ideas.
+- If you need help with GitHub during the event, mentors will be available to support you!
+
 
 ## 🤝 Support available
 

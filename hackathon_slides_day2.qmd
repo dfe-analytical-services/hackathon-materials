@@ -1,0 +1,36 @@
+---
+title: "Hackathon Day 2 Kickoff!"
+title-slide-attributes:
+  data-background-position: top
+  data-background-image: images/sanctuary-buildings.jpg
+  data-background-size: cover
+  data-background-opacity: "0.1"
+author: "Menna Zayed"
+institute: Department for Education
+format:
+  revealjs:
+   theme: [dark, dfe-quarto-slides.scss]
+   width: 1060
+   height: 900
+   minScale: 0.2
+   maxScale: 3.0
+   logo: images/DfE_logo_landscape.svg
+   self-contained: true
+---
+
+## Recap 
+
+## Agenda for Day 2
+
+## Presentation Tips
+
+-   Keep it concise: Aim for 5-7 minutes per team.
+-   Focus on key insights: Highlight the problem, your approach, and results.
+-   Use visuals: Screenshots, charts, and code snippets can help convey your message.
+-   Practice: Rehearse your presentation to ensure smooth delivery.
+
+## Let's Get Started!
+
+- Set up a Teams meeting for your Team check-in
+- This will be followed by 'Hacking session #4' where you can continue development with two drop in sessions on Git and RShiny. 
+

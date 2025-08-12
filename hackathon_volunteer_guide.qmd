@@ -4,8 +4,6 @@ format:
   html:
     embed-resources: true
     toc: true
-engine: knitr
-editor: visual
 ---
 
 {{< include "event_details_agenda.qmd" >}}

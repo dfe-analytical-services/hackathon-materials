@@ -1,5 +1,5 @@
 ---
-title: "Hackathon Kickoff!"
+title: "Hackathon Day 1 Kickoff!"
 title-slide-attributes:
   data-background-position: top
   data-background-image: images/sanctuary-buildings.jpg
@@ -37,14 +37,16 @@ format:
 ## Meet the organisers and volunteers {.smaller}
 
 ::: panel-tabset
+
+
 ### Organisers
+::: {layout-nrow=2}
+![Menna Zayed](images/menna.jpg){fig-align="left" width=50%}
 
-|                  |
-|------------------|
-| Menna Zayed      |
-| Charlotte Foster |
-| Matthew Robinson |
+![Charlotte Foster](images/charlotte.jpg){fig-align="left" width=50%}
 
+![Matthew Robinson](images/no_picture.png){fig-align="left" width=50%}
+:::
 ### Data background / Subject expert volunteers
 
 {{< include "data_volunteer_list.qmd" >}}
@@ -61,64 +63,112 @@ format:
 
 ## Persistent Absence Explorer
 
-| Persistent Absence Explorer |              |
-|-----------------------------|--------------|
+::::columns
+::: {.column width="40%"}
+### Persistent Absence Explorer
+
+This project aims to make it easier to analyse and compare persistent absence rates across regions and school types, using the Week 29 dataset for a full-year view. The goal is to uncover meaningful patterns and insights.
+
+:::
+::: {.column width="60%"}
+
 | **Team member**             | **Location** |
+|-----------------------------|--------------|
 | Grace TAYLOR-JOYCE          | Coventry     |
 | Robert TARRANT              | London       |
 | Finn TRINCI                 | London       |
-|                             |              |
+| April WORRALL               | Sheffield    |
+:::
+::::
 
 ## Form-to-Report Generator
 
-| Form-to-Report Generator |              |
-|--------------------------|--------------|
+
+::::columns
+::: {.column width="40%"}
+### Form-to-Report Generator
+
+This project explores using Copilot to automatically generate reports or emails from structured data like forms or spreadsheets, saving time and ensuring consistency. A key example is turning a reward spreadsheet into personalised thank-you messages.
+:::
+::: {.column width="60%"}
 | **Team member**          | **Location** |
+|--------------------------|--------------|
 | Sarah M-BRIGHT           | London       |
 | Cheena GHATAOURA         | London       |
 | Rebecca WEDGE-ROBERTS    | Sheffield    |
+:::
+::::
 
 
-## Automated QA of Schools, pupils and their characteristics/SEN
+## Automated QA of SPC/SEN
 
-| Automated QA of Schools, pupils and their characteristics/SEN |   |
-|----|----|
+::::columns
+::: {.column width="40%"}
+### Automated QA of SPC/SEN
+
+This project aims to streamline the manual cross-checking of school census data used in the Schools, Pupils, and their Characteristics (SPC) and Special Educational Needs (SEN) publications. Automating the QA process will save time, reduce errors, and enable earlier data visualisation to spot trends.
+:::
+::: {.column width="60%"}
 | **Team member** | **Location** |
+|-----------------------------|--------------|
 | Kester JARVIS | Virtual on Weds/London on Thurs |
 | Nathan CHALAM-JUDGE | Sheffield |
 |  |  |
 |  |  |
+:::
+::::
 
 ## Using LLMs for Third-Line QA on Statistical Releases
+::::columns
+::: {.column width="40%"}
+### Using LLMs for Third-Line QA on Statistical Releases
 
-| Using LLMs for Third-Line QA on Statistical Releases |              |
-|------------------------------------------------------|--------------|
+This project explores whether large language models (LLMs) can help spot patterns, anomalies, or inconsistencies in statistical data that traditional QA might miss, adding an extra layer of assurance and insight.
+:::
+::: {.column width="60%"}
+
 | **Team member**                                      | **Location** |
+|-----------------------------|--------------|
 | Jake TUFTS                                           | London       |
 |                                                      |              |
 |                                                      |              |
-
+:::
+::::
 ## Developing a Historical School Identifier Dimension
 
-| Developing a Historical School Identifier Dimension |              |
-|-----------------------------------------------------|--------------|
-| **Team member**                                     | **Location** |
-| Connor BOUSFIELD                                    | Darlington   |
-|                                                     |              |
-|                                                     |              |
-|                                                     |              |
+::::columns
+::: {.column width="40%"}
+### Developing a Historical School Identifier Dimension
 
+This project aims to create a consistent way to track schools over time, despite changes in identifiers like URN and LAESTAB due to closures or mergers. A historical link between identifiers will support better longitudinal analysis.
+:::
+::: {.column width="60%"}
+| **Team member**                                     | **Location** |
+|-----------------------------|--------------|
+| Connor BOUSFIELD                                    | Darlington   |
+| Samuel PILLING                                      | London       |
+|                                                     |              |
+|                                                     |              |
+:::
+::::
 
 
 ## New Insights on User Analytics for EES
+::::columns
+::: {.column width="40%"}
+### New Insights on User Analytics for EES
 
-| New Insights on User Analytics for EES |              |
-|----------------------------------------|--------------|
+This project aims to improve the EES analytics dashboard by adding deeper insights into how users interact with statistical publications. The goal is to compare engagement across content types and publications to inform design and prioritisation.
+:::
+::: {.column width="60%"}
+
 | **Team member**                        | **Location** |
+|-----------------------------|--------------|
 | Hasan MALIK                            | Coventry     |
 |                                        |              |
 |                                        |              |
-|                                        |              |
+:::
+::::
 :::
 
 ## Hackathon Participant Guide
@@ -139,7 +189,7 @@ format:
 :::
 :::::
 
-## Event details and Code of conduct
+## Event details and code of conduct
 
 :::::: columns
 :::: {.column width="60%"}
@@ -169,7 +219,7 @@ To help create a positive and collaborative environment, we ask all participants
 :::
 ::::::
 
-## Agenda:
+## Agenda
 
 ::::: columns
 ::: {.column width="40%"}
@@ -184,7 +234,7 @@ You can find the following information for both days and can be accessed through
 :::
 :::::
 
-## 📅 Day 1 – 3rd September 2025
+## 📅 Day 1: 3rd September 2025
 
 1.  🟢**Welcome & Kickoff**
 
@@ -231,7 +281,10 @@ You can find the following information for both days and can be accessed through
 Use this section for:
 
 -   Links to pages where you can find the data you need information on how to access it.
--   Suggestions for tools you can use.
+-   Suggestions for tools you can use for:
+
+    - Project management
+    - Code collaboration and version control (GitHub)
 :::
 
 ::: {.column width="40%"}
@@ -239,7 +292,7 @@ Use this section for:
 :::
 :::::
 
-## Support available:
+## Support available
 
 ::::: columns
 ::: {.column width="60%"}
@@ -254,6 +307,8 @@ Use this section for:
     -   We encourage you to use the 'Help and Support' channel to ask questions.
 
     -   Volunteers will try to answer when they're available and we also encourage you to support each other.
+    
+- Ideas for a solution for the project.
 :::
 
 ::: {.column width="40%"}
