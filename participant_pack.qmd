@@ -172,6 +172,10 @@ No experience using Git or would like a refresher? Use [Git Academy](https://dfe
 
 GitHub will be the primary platform for collaborating on code, managing project files, and tracking progress during the Hackathon. Whether you're a seasoned developer or new to version control, GitHub helps teams stay organised and work efficiently, especially in a hybrid setting.
 
+#### Your GitHub Repo
+
+
+
 #### Why Use GitHub?
 
 ::: callout-tip
@@ -255,24 +259,40 @@ if (isTRUE(nzchar(params$proj_other_resources))) {
 
 ```
 
-### Teams chat and technical volunteers
+### Drop-in sessions
 
-We have a group of volunteers to support you with your projects. Some volunteers are running drop-in sessions for the technical aspects of the projects. You can find the MS Teams link for the drop-in sessions and more information in the [agenda section](#agenda).
+Our technical volunteers are running drop-in sessions for the technical aspects of the projects. You can find the MS Teams link for the drop-in sessions and more information in the [agenda section](#agenda).
 
-If there is a data expert volunteer for your project, you can find out more information about them in the [Support for data background about the project section](#data-background) of this document. You can contact them through the [Pre-stats awayday hackathon group](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) on Teams or by dropping them a message.
-
-::: callout-tip
-If you have a question or a technical issue, please post them in the [Help and support](https://teams.microsoft.com/l/channel/19%3A5a57b51811a74da694ee272057caebac%40thread.tacv2/Help%20and%20support?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) channel in the [Pre-stats awayday hackathon group](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) on Teams while using '\@' to tag the relevant volunteers. We also encourage you to help each other out in the channel.
-:::
-
-#### Technical volunteers
+### Teams group
 
 ::: callout-important
 
-Our volunteers might not be able to respond to your message right away, as they could be assisting someone else. We really appreciate your patience and kindness while waiting for a reply!
+Our lead volunteers might not be able to respond to your message right away, as they could be assisting someone else. Try to get in touch with the supporting volunteers in these cases. We really appreciate your patience and kindness while waiting for a reply!
 
 :::
 
+We have different groups of volunteers to support you with your projects. We have:
+
+- Technical volunteers
+- Data / subject expert volunteers. This does not apply to all projects
+
+#### Data / subject expert volunteers
+
+- If there is a data expert volunteer for your project, you can find out more information about them in the [Support for data background about the project section](#data-background) of this document.
+- You can contact them through the [Pre-stats awayday hackathon group](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) on Teams or by dropping them a message.
+
+-  Otherwise, please use the documentation provided to find out the information you need about the data.
+
+#### Technical volunteers
+
+::: callout-tip
+Use '\@' to tag the relevant volunteers from the table below so they can spot your questions faster. We also encourage you to help each other out in the channel.
+:::
+- Go to the [Pre-stats awayday hackathon group](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) group on Teams.
+
+- Find appropraite channel and post your questions. 
+    
+    - For example, we have a channel dedicated to RShiny where you can post all your RShiny related questions.
 
 {{< include "tech_volunteer_list.qmd" >}}
 
