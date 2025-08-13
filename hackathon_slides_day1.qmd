@@ -34,6 +34,23 @@ format:
 :::
 :::::
 
+
+## Overview of the hackathon
+
+![](images/timeline_white.png)
+
+## Your presentation
+
+
+-   We provided a guided structure to help you create your presentation.
+
+- The presentation should be from 5 - 10 minutes maximum. 
+
+    - Ensure to allow time for questions at the end. 
+    
+- Please ensure at least one person from your team is available to present at the end of the hackathon and at the DfE Stats awayday.
+
+
 ## Meet the organisers and volunteers {.smaller}
 
 ::: panel-tabset
@@ -48,12 +65,31 @@ format:
 ![Matthew Robinson](images/no_picture.png){fig-align="left" width=50%}
 :::
 ### Data background / Subject expert volunteers
+::: {layout-nrow=2}
 
-{{< include "data_volunteer_list.qmd" >}}
+![Tom Curd - Persistent Absence Explorer](images/tom.jpg){fig-align="left" width=50%}
+
+:::
+
 
 ### Technical volunteers
+::: {layout-nrow=3}
 
-{{< include "tech_volunteer_list.qmd" >}}
+![Lauren Snaathorst - Git](images/lauren.jpg){fig-align="left" width=40%}
+
+![Cam Race - RShiny](images/cam.jpg){fig-align="left" width=40%}
+
+![Menna Zayed - R data manipulation](images/menna.jpg){fig-align="left" width=40%}
+
+![Lara Eddington - Automated QA](images/lara.jpg){fig-align="left" width=40%}
+
+![Phil Ovington - LLMs](images/no_picture.png){fig-align="left" width=40%}
+
+![Rich Bielby - EES API](images/rich.jpg){fig-align="left" width=40%}
+
+![Mohamed Zayed - Python](images/mohamed.jpg){fig-align="left" width=40%}
+:::
+
 :::
 
 ## Your teams and projects
@@ -171,6 +207,9 @@ This project aims to improve the EES analytics dashboard by adding deeper insigh
 ::::
 :::
 
+
+
+
 ## Hackathon Participant Guide
 
 ::::: columns
@@ -189,33 +228,21 @@ This project aims to improve the EES analytics dashboard by adding deeper insigh
 :::
 :::::
 
-## Event details and code of conduct
+
+
+## Code of conduct
 
 :::::: columns
-:::: {.column width="60%"}
--   A section that summarises the event details and links to our code of conduct.
+:::: {.column width="40%"}
+-   The code of conduct for the hackathon is linked in the 'Event overview' section of your guide.
 
 -   Please make sure to read it and follow it as we want to create a friendly and welcoming environment for everyone.
 
-::: callout-tip
-#### **Expected Behaviour**
 
-To help create a positive and collaborative environment, we ask all participants to:
-
--   Be kind, respectful, and inclusive
-
--   Listen actively and value different perspectives
-
--   Give constructive feedback and accept it graciously
-
--   Collaborate with curiosity and openness
-
--   Help foster a fun and supportive atmosphere
-:::
 ::::
 
-::: {.column width="40%"}
-![](images/event_details.png)
+::: {.column width="60%"}
+![](images/code_of_conduct.png)
 :::
 ::::::
 
@@ -252,79 +279,37 @@ You can find the following information for both days and can be accessed through
 
 8.  💬 **Team Check-In & Wrap-Up**
 
-## Project information:
+## What's my project?
 
-::::: columns
-::: {.column width="60%"}
--   Make sure to read through all the project information.
+-   You will find this information in the project information section.
 
 -   You will find the following information in this section:
 
     -   The problem the project aims to solve.
 
-    -   Skills you will develop by working on this project.
-
     -   Known challenges and limitations.
 
     -   Vision for the project by the end of the hackathon - this will help you plan your project and set expectations.
-:::
 
-::: {.column width="40%"}
-![](images/project_info.png)
-:::
-:::::
 
-## Data and tools
 
-::::: columns
-::: {.column width="60%"}
-Use this section for:
+## How do I get data?
 
--   Links to pages where you can find the data you need information on how to access it.
--   Suggestions for tools you can use for:
+Use the 'Data and tools' section in your guide to get information on how to access the data you need for your project.
 
-    - Project management
-    - Code collaboration and version control (GitHub)
-:::
+## How do I plan my project?
 
-::: {.column width="40%"}
-![](images/data_and_tools.png)
-:::
-:::::
+Use the 'Data and tools' section in your guide to find templates you can use for:
 
-## Support available
+- Miroboard
+- Lucid board
+- Trello board
 
-::::: columns
-::: {.column width="60%"}
--   Links to DataCamp courses
+## How do I get help?
 
--   Links to other resources
+-   Use the 'Support available' section in your guide to find links to resources
+-   Use the MS Teams channel where you can ask questions.
 
--   MS Teams and volunteers
-
-    -   Link to the Team for the hackathon where you can post question.
-
-    -   We encourage you to use the 'Help and Support' channel to ask questions.
-
-    -   Volunteers will try to answer when they're available and we also encourage you to support each other.
-    
-- Ideas for a solution for the project.
-:::
-
-::: {.column width="40%"}
-![](images/support_available.png)
-:::
-:::::
-
-## Your presentation
-
--   You will get to present at the end of the two day hackathon and also present at the stats awayday!
-
--   We provided a guided structure to help you create your presentation.
-
-::: callout-important
-The presentation should be from 5 - 10 minutes maximum. Ensure to allow time for questions at the end.
-:::
 
 ## Let's get started!
 
@@ -351,3 +336,5 @@ The presentation should be from 5 - 10 minutes maximum. Ensure to allow time for
 -   Make sure to set up calls for the team check-ins scheduled in the agenda
 ```
 :::
+
+

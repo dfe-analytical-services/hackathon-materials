@@ -287,7 +287,11 @@ The following is a suggestion by the team that proposed the project to help you 
 ## 🎤 Your presentation
 
 ::: callout-important
-The presentation should be from 5 - 10 minutes maximum. Ensure to allow time for questions at the end.
+## Important 
+
+- The presentation should be from 5 - 10 minutes maximum. Ensure to allow time for questions at the end. 
+
+- Also please ensure at least one person from your team is available to present at the end of the hackathon and at the DfE Stats awayday.
 :::
 
 Your team will be presenting your project at the end of the hackathon and at the DfE Stats awayday and your presentation should include:
@@ -301,5 +305,11 @@ Your team will be presenting your project at the end of the hackathon and at the
 -   **Demo**: If applicable, a demonstration of your solution.
 
 ::: callout-tip
-Use the [project information](#project-info) section to help support with your presentation.
+## Tips
+
+- Use the [project information](#project-info) section to help support with your presentation.
+
+- Use the [DfE Quarto Slides Template](https://github.com/dfe-analytical-services/quarto-slides-template) for your presentation by downloading the materials from the [linked repo](https://github.com/dfe-analytical-services/quarto-slides-template) and uploading it to your own project's repo. 
+    
+    - Altneratively you can use, PowerPoint. 
 :::
