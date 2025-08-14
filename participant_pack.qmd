@@ -21,6 +21,7 @@ params:
   proj_datacamp: "Data camp courses you can use ..."
   proj_other_resources: "Other resources you can use ..."
   proj_skills: "Skills you will develop by working on this project"
+  proj_repo: "GitHub repository link"
 ---
 
 {{< include "event_details_agenda.qmd" >}}
@@ -163,48 +164,31 @@ This project planning tool doesn't have the 'Get to know your team!" part that t
 
 ### Code sharing - GitHub
 
-
 ::: callout-tip
-
 No experience using Git or would like a refresher? Use [Git Academy](https://dfe-analytical-services.github.io/git-academy/), a self-directed training resource to help upskill in Git.
-
 :::
 
-GitHub will be the primary platform for collaborating on code, managing project files, and tracking progress during the Hackathon. Whether you're a seasoned developer or new to version control, GitHub helps teams stay organised and work efficiently, especially in a hybrid setting.
+GitHub will be the primary platform for collaborating on code, managing project files, and tracking progress during the Hackathon because it allows for:
+
+-   **Collaboration**: Work together in real time, even if you're in different locations.
+-   **Version Control**: Keep track of changes, revert to previous versions, and avoid overwriting each other’s work.
+-   **Transparency**: Everyone can see what’s being worked on and contribute where needed.
+-   **Documentation**: Use the README file in your repo and issues to explain your project and track tasks. 
+-   **Showcase and share your work**: At the end of the Hackathon, your GitHub repo becomes a portfolio piece you can share with the team that proposed the project.
 
 #### Your GitHub Repo
 
-
-
-#### Why Use GitHub?
-
-::: callout-tip
-
-Please set your repos for the projects to private and invite your team mates as collaboraters. Use the [Useful GitHub Links section](#useful-github-links) to get more information on how to do this.
-
-:::
-
-- **Collaboration**: Work together in real time, even if you're in different locations.
-- **Version Control**: Keep track of changes, revert to previous versions, and avoid overwriting each other’s work.
-- **Transparency**: Everyone can see what’s being worked on and contribute where needed.
-- **Documentation**: Use README files and issues to explain your project and track tasks. You can use this [README template](https://github.com/dfe-analytical-services/dfeR/blob/398cc760fc431e95f81a1e7ca18a042115b672d0/inst/README_template.md#L4) to help you get started.
-- **Showcase and share your work**: At the end of the Hackathon, your GitHub repo becomes a portfolio piece you can share with the team that proposed the project.
-
-#### Useful GitHub Links
-
-- [GitHub Sign Up](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github#signing-up-for-a-new-personal-account) – Create an account if you don’t have one yet.
-- [Creating a new repository](https://docs.github.com/en/repositories/creating-and-managing-repositories/creating-a-new-repository)
-- [Inviting collaborators to a personal repository](https://docs.github.com/en/account-and-profile/how-tos/setting-up-and-managing-your-personal-account-on-github/managing-access-to-your-personal-repositories/inviting-collaborators-to-a-personal-repository)
-
+-  Create an account if you don’t have one yet. - [GitHub Sign Up](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github#signing-up-for-a-new-personal-account).
+- Let Menna know your GitHub username so she can give you the correct access.
+- Go to your repo, `r params$proj_repo`, clone it and start working together on it using branches.
+- Use [Git Academy](https://dfe-analytical-services.github.io/git-academy/), a self-directed training resource to help upskill in Git.
 
 #### Tips for Getting Started
 
-- Make sure your team sets up a shared repository early on.
-- Use branches for individual features or experiments.
-- Commit often with clear messages.
-- Use issues or project boards to track tasks and ideas.
-- If you need help with GitHub during the event, mentors will be available to support you!
-
+-   Use branches for individual features or experiments.
+-   Commit often with clear messages.
+-   Use issues or project boards to track tasks and ideas.
+-   If you need help with GitHub during the event, mentors will be available to support you!
 
 ## 🤝 Support available
 
@@ -259,42 +243,48 @@ if (isTRUE(nzchar(params$proj_other_resources))) {
 
 ```
 
-### Drop-in sessions
-
-Our technical volunteers are running drop-in sessions for the technical aspects of the projects. You can find the MS Teams link for the drop-in sessions and more information in the [agenda section](#agenda).
-
 ### Teams group
 
 ::: callout-important
-
 Our lead volunteers might not be able to respond to your message right away, as they could be assisting someone else. Try to get in touch with the supporting volunteers in these cases. We really appreciate your patience and kindness while waiting for a reply!
-
 :::
 
 We have different groups of volunteers to support you with your projects. We have:
 
-- Technical volunteers
-- Data / subject expert volunteers. This does not apply to all projects
+-   Technical volunteers who will support through the [Pre-stats awayday hackathon group](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) on Teams and [Drop-in sessions](drop-in-sessions)
+-   Data / subject expert volunteers who will support through the [Pre-stats awayday hackathon group](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) on Teams. This does not apply to all projects
 
 #### Data / subject expert volunteers
 
-- If there is a data expert volunteer for your project, you can find out more information about them in the [Support for data background about the project section](#data-background) of this document.
-- You can contact them through the [Pre-stats awayday hackathon group](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) on Teams or by dropping them a message.
+-   If there is a data expert volunteer for your project, you can find out more information about them in the [Support for data background about the project section](#data-background) of this document.
 
--  Otherwise, please use the documentation provided to find out the information you need about the data.
+-   You can contact them through the [Pre-stats awayday hackathon group](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) on Teams or by dropping them a message.
+
+-   Otherwise, please use the documentation provided to find out the information you need about the data.
 
 #### Technical volunteers
 
 ::: callout-tip
 Use '\@' to tag the relevant volunteers from the table below so they can spot your questions faster. We also encourage you to help each other out in the channel.
 :::
-- Go to the [Pre-stats awayday hackathon group](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) group on Teams.
 
-- Find appropraite channel and post your questions. 
-    
-    - For example, we have a channel dedicated to RShiny where you can post all your RShiny related questions.
+-   Go to the [Pre-stats awayday hackathon group](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) group on Teams.
+-   Use the MS Teams channel to ask questions and get help from the organisers and volunteers.
+-   Select the relevant channel for your query.
+
+    -   For example, we have a channel dedicated to RShiny where you can post all your RShiny related questions.
+-   Provide the following so the volunteers can help you:
+
+    -   Your project name
+    -   A summary of the issue you are facing
+    -   Any error messages you are getting
+    -   Minimal reproducible example to recreate your error if applicable 
 
 {{< include "tech_volunteer_list.qmd" >}}
+
+### Drop-in sessions
+
+Our technical volunteers are running drop-in sessions for the technical aspects of the projects. You can find the MS Teams link for the drop-in sessions and more information in the [agenda section](#agenda).
 
 ### Ideas for solutions
 
@@ -307,11 +297,11 @@ The following is a suggestion by the team that proposed the project to help you 
 ## 🎤 Your presentation
 
 ::: callout-important
-## Important 
+## Important
 
-- The presentation should be from 5 - 10 minutes maximum. Ensure to allow time for questions at the end. 
+-   The presentation should be from 5 - 10 minutes maximum. Ensure to allow time for questions at the end.
 
-- Also please ensure at least one person from your team is available to present at the end of the hackathon and at the DfE Stats awayday.
+-   Also please ensure at least one person from your team is available to present at the end of the hackathon and at the DfE Stats awayday.
 :::
 
 Your team will be presenting your project at the end of the hackathon and at the DfE Stats awayday and your presentation should include:
@@ -327,9 +317,9 @@ Your team will be presenting your project at the end of the hackathon and at the
 ::: callout-tip
 ## Tips
 
-- Use the [project information](#project-info) section to help support with your presentation.
+-   Use the [project information](#project-info) section to help support with your presentation.
 
-- Use the [DfE Quarto Slides Template](https://github.com/dfe-analytical-services/quarto-slides-template) for your presentation by downloading the materials from the [linked repo](https://github.com/dfe-analytical-services/quarto-slides-template) and uploading it to your own project's repo. 
-    
-    - Altneratively you can use, PowerPoint. 
+-   Use the [DfE Quarto Slides Template](https://github.com/dfe-analytical-services/quarto-slides-template) for your presentation by downloading the materials from the [linked repo](https://github.com/dfe-analytical-services/quarto-slides-template) and uploading it to your own project's repo.
+
+    -   Altneratively you can use, PowerPoint.
 :::

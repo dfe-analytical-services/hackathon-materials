@@ -1,9 +1,9 @@
-| Area of expertise | Lead Technical Volunteer | Supportting Technical Volunteers |
-|------------------|------------------------------------------------------|
-| Git | Lauren Snaathorst | Lara Eddington,  and Menna Zayed |
+| Area of expertise | Lead Technical Volunteer | Supporting Technical Volunteers |
+|------------------|----------------|--------------------------------|
+| Git | Lauren Snaathorst | Lara Eddington and Menna Zayed |
 | RShiny |Cam Race| Rich Bielby and Menna Zayed |
 | R data manipulation |Menna Zayed| Lara Eddington and Lauren Snaathorst  |
-| Automated QA | , Lara Eddington| Rich Bielby, Cam Race, Lauren Snaathorst and Menna Zayed |
-| LLMs | Philip Ovington | |
+| Automated QA | Lara Eddington| Rich Bielby, Cam Race, Lauren Snaathorst and Menna Zayed |
+| LLMs | Philip Ovington |- |
 | EES API | Rich Bielby  | Cam Race|
-| Python | Mohamed Zayed | |
+| Python | Mohamed Zayed |- |

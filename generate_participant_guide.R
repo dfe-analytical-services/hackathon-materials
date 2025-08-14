@@ -57,6 +57,8 @@ for ( i in unique(hack_proj_data$project)) {
      dplyr::pull(answer),
    proj_skills = hack_proj_data %>% 
      dplyr::filter(project == i & Qualifiers == "What skills would be helpful for participants to have (e.g. data science, software engineering, domain knowledge)?") %>% 
+     dplyr::pull(answer),
+   proj_repo=filter(hack_proj_data, project == i & Qualifiers == "git") %>% 
      dplyr::pull(answer)
   
    
