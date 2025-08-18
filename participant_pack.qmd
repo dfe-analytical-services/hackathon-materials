@@ -299,7 +299,9 @@ The following is a suggestion by the team that proposed the project to help you 
 ::: callout-important
 ## Important
 
--   The presentation should be from 5 - 10 minutes maximum. Ensure to allow time for questions at the end.
+-   The presentation should be from 5 - 10 minutes maximum.
+
+    - Aim for around 7–8 minutes of presenting, leaving 2–3 minutes for Q&A.
 
 -   Also please ensure at least one person from your team is available to present at the end of the hackathon and at the DfE Stats awayday.
 :::

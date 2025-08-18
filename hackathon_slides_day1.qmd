@@ -22,11 +22,13 @@ format:
 
 ::::: columns
 ::: {.column width="60%"}
--   Welcome everyone! We're thrilled to have you here!
+- Get ready for two days of hands-on learning, creativity, and collaboration as we tackle real-world challenges together.
 
--   Get ready for 2 days of upskilling, creativity, collaboration, and innovation.
+- Over the next two days, you’ll:
 
--   Over the next two days, you will be working on a project that you will present here and in the stats awayday on the 11th of September.
+    - Work in teams on a project of your choice
+    - Build something innovative and useful
+    - Present your work here and at the Stats Awayday on 11th September
 :::
 
 ::: {.column width="40%"}
@@ -43,13 +45,16 @@ format:
 
 ::::columns
 ::: {.column width="60%"}
--   We provided a guided structure to help you create your presentation.
+-   We provided a guided structure to help you create your presentation so no need to start from scratch!
 
-- The presentation should be from 5 - 10 minutes maximum. 
+- Your presentation should be 5 to 10 minutes total, including time for questions. 
 
-    - Ensure to allow time for questions at the end. 
-    
-- Please ensure at least one person from your team is available to present at the end of the hackathon and at the DfE Stats awayday.
+    - Aim for around 7–8 minutes of presenting, leaving 2–3 minutes for Q&A.
+
+- At least one team member must be available to present:
+
+    - At the end of the hackathon
+    - And again at the DfE Stats Awayday on 11th September
 :::
 ::: {.column width="40%"}
 ![](images/fred-present.png)
@@ -89,7 +94,7 @@ format:
 
 ![Menna Zayed - R data manipulation](images/menna.jpg){fig-align="left" width=40%}
 
-![Lara Eddington - Automated QA](images/lara.jpg){fig-align="left" width=40%}
+![Lara Edington - Automated QA](images/lara.jpg){fig-align="left" width=40%}
 
 ![Phil Ovington - LLMs](images/no_picture.png){fig-align="left" width=40%}
 
@@ -184,13 +189,11 @@ This project aims to create a consistent way to track schools over time, despite
 
 ::::: columns
 ::: {.column width="60%"}
--   This guide was emailed to you before today
-
--   You can also find it in the Hackathon MS Team resources.
-
--   Check the file you have and ensure you have the correct one for your project by checking the project name next to the title.
-
--   It contains all the information you need to get started with your project and you can access different sections easily through the TOC.
+- You should have received the guide by email before today
+- It’s also available in the Hackathon MS Teams 'Files' tab
+- Check your file to make sure it matches your project — look for the project name next to the title
+- The guide includes everything you need to get started
+- Use the built-in table of contents to easily navigate between sections
 :::
 
 ::: {.column width="40%"}
@@ -204,10 +207,10 @@ This project aims to create a consistent way to track schools over time, despite
 
 :::::: columns
 :::: {.column width="40%"}
--   The code of conduct for the hackathon is linked in the 'Event overview' section of your guide.
-
--   Please make sure to read it and follow it as we want to create a friendly and welcoming environment for everyone.
-
+- The code of conduct is linked in the ‘Event Overview’ section of your participant guide
+- Please read it carefully before getting started
+- We’re committed to creating a friendly, inclusive, and welcoming environment for everyone
+- Following the code helps ensure a positive experience for all participants
 
 ::::
 
@@ -220,10 +223,12 @@ This project aims to create a consistent way to track schools over time, despite
 
 ::::: columns
 ::: {.column width="40%"}
-You can find the following information for both days and can be accessed through the clickable tabsets:
+- The agenda for both days is available via the clickable tabsets in your guide
+- See which rooms are booked for each location across both days
+- View the session schedule for each day, including:
 
--   Rooms booked for each location for both days
--   Agenda for each day with details for each session and MS Teams links for the drop in sessions
+    - Session details
+    - MS Teams links for drop-in sessions
 :::
 
 ::: {.column width="60%"}
@@ -233,21 +238,8 @@ You can find the following information for both days and can be accessed through
 
 ## 📅 Day 1: 3rd September 2025
 
-1.  🟢**Welcome & Kickoff**
 
-2.  🧠**Project Planning**
-
-3.  💻 **Hacking Session #1**
-
-4.  🍽️ **Lunch Break**
-
-5.  💬 **Team Check-In**
-
-6.  💻 **Hacking Session #2**
-
-7.  ☕ **Afternoon Break**
-
-8.  💬 **Team Check-In & Wrap-Up**
+![](images/agenda_day1_alt.png)
 
 ## What's my project?
 ::::: columns
@@ -255,7 +247,7 @@ You can find the following information for both days and can be accessed through
 
 -   You will find this information in the project information section.
 
--   You will find the following information in this section:
+-   In there you will find:
 
     -   The problem the project aims to solve.
 
@@ -298,9 +290,9 @@ Use the 'Data and tools' section in your guide to find templates you can use for
 :::: columns
 ::: {.column width="60%"}
 - Use the 'Code sharing - GitHub' section in your guide to find links to the GitHub repository for your project.
-- Using Git is the most effcient way to collaborate on writing code.
+- Using Git is the most efficient way to collaborate on writing code.
 - Use the README in the repo to document your project and how to run it.
-- Allows us to share your code with the team who proposed the project. 
+- This will allow us to share your code with the team who proposed the project. 
 :::
 ::: {.column width="40%"}
 ![](images/frederick-git.png)
@@ -311,7 +303,7 @@ Use the 'Data and tools' section in your guide to find templates you can use for
 ::::columns
 ::: {.column width="60%"}
 -   Use the 'Support available' section in your guide to find links to resources
--   Use the [Pre-stats awayday hackathon group](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) group on Teams to ask questions.
+-   Use the [Pre-stats awayday hackathon group](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) on Teams to ask questions.
 :::
 ::: {.column width="40%"}
 ![](images/team_channels.png)

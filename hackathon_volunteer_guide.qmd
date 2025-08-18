@@ -84,7 +84,7 @@ We asked participants to post their questions in the [Help and support](https://
 |-------------------------------------|-----------------------------------|
 | Automated QA of Schools pupils nd their characteristics / SEN | Lauren Snaathorst |
 | Developing a Historical School Identifier Dimension | Rich Bielby |
-| Form to Report Generator | Lara Eddington |
+| Form to Report Generator | Lara Edington |
 | New insights on User Analytics for EES | Cam Race |
 | Persistent Absence Explorer (EES API) | Mohamed Zayed |
 | Using LLMs for Third Line QA on Statistical Releases | Menna Zayed |
