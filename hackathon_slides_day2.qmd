@@ -18,19 +18,104 @@ format:
    self-contained: true
 ---
 
-## Recap 
+## Hackathon Day 2 Kickoff!
+
+::::: columns
+::: {.column width="60%"}
+-   Welcome back to Day 2 of the Pre-Stats Awayday Hackathon!
+-   We hope you had a productive Day 1 and are ready to dive back into your projects.
+:::
+
+::: {.column width="40%"}
+![](images/hackathon_fred.png)
+:::
+:::::
+
+## Recap of day 1
+
+-   Project planning ✅
+-   Data access and tool setup ✅
+-   Initial coding and development ✅
+
+## Goals for today
+
+::::: columns
+::: {.column width="60%"}
+-   Finalize your projects
+
+    -   Finalise building and testing your prototype
+    -   Make sure your code is on the GitHub repo
+    -   Make sure you have a detailed README file in your repo
+
+-   Prepare your presentations
+
+-   Present your work at the end of the day
+:::
+
+::: {.column width="40%"}
+![](images/frederick-coding.png){figure-align="center"}
+:::
+:::::
 
 ## Agenda for Day 2
 
+![](images/agenda_day2.png){figure-align="center"}
+
 ## Presentation Tips
 
--   Keep it concise: Aim for 5-7 minutes per team.
+::::: columns
+::: {.column width="60%"}
+-   Keep it concise: 5 to 10 minutes total, including time for questions.
+
+    -   Aim for around 7–8 minutes of presenting, leaving 2–3 minutes for Q&A.
+
 -   Focus on key insights: Highlight the problem, your approach, and results.
+
 -   Use visuals: Screenshots, charts, and code snippets can help convey your message.
+
 -   Practice: Rehearse your presentation to ensure smooth delivery.
+
+-   Be ready for questions: Anticipate questions and prepare answers in advance.
+
+-   Make sure to email your slides to Menna by end of day today so we can prepare for the Stats Awayday.
+:::
+
+::: {.column width="40%"}
+![](images/fred-present.png){figure-align="center"}
+:::
+:::::
+
+## Presentation schdule
+
+{{< include presentations_timings.qmd >}}
 
 ## Let's Get Started!
 
-- Set up a Teams meeting for your Team check-in
-- This will be followed by 'Hacking session #4' where you can continue development with two drop in sessions on Git and RShiny. 
+-   Set up a Teams meeting for your Team check-in
+-   This will be followed by 'Hacking session #4' where you can continue development with drop-in sessions available.
+
+## Presentations
+
+{{< include presentations_timings.qmd >}}
+
+## Voting
+
+-   Best Overall Project : Most impactful, well-executed, and innovative solution.
+
+-   Most Technically Impressive: Showcases advanced coding, data handling, or integration.
+
+-   Best Use of Data: Clever or insightful use of datasets to drive outcomes.
+
+-   Most Creative Solution: Unique or unexpected approach to solving the problem.
+
+-   Best Presentation/Demo: Clear, engaging, and professional delivery of the project.
+
+
+## Closing remarks
+
+-   Thank you for your hard work and creativity over the past two days!
+-   We hope you enjoyed the hackathon and learned something new.
+-   We look forward to seeing your projects at the Stats Awayday on 11th September.
+-   Please remember to email your slides to Menna by the end of today.
+-   We value your feedback! Please take a moment to fill out our [feedback form](https://forms.office.com/e/3b0a1c4d9f).
 
