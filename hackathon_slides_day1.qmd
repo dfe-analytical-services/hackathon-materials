@@ -127,6 +127,7 @@ This project aims to make it easier to analyse and compare persistent absence ra
 | Finn TRINCI                 | London       |
 | April WORRALL               | Sheffield    |
 |Matt WELLER|London|
+| Hasan MALIK                            | Coventry     |
 :::
 ::::
 
@@ -146,6 +147,8 @@ This project aims to streamline the manual cross-checking of school census data 
 |Josie BRETT | MS Teams |
 |Mark HORTON| MS Teams|
 |Matthew ROLFE|Sheffield|
+|Ricardo HAYWARD|London|
+
 :::
 ::::
 
@@ -163,11 +166,10 @@ This project explores whether large language models (LLMs) can help spot pattern
 | **Team member**                                      | **Location** |
 |-----------------------------|--------------|
 | Jake TUFTS                           | London       |
-| Hasan MALIK                            | Coventry     |
-| Sarah M-BRIGHT           | London       |
 | Rebecca WEDGE-ROBERTS    | Sheffield    |
 |Gemma SELBY|MS Teams|
 |Daniel DODGSON| MS Teams|
+|Cheena GHATAOURA| London|
 :::
 ::::
 ## Developing a Historical School Identifier Dimension
@@ -186,6 +188,7 @@ This project aims to create a consistent way to track schools over time, despite
 | Sema TAYAR                                         |London              |
 | Matthew ROBINSON |London|
 |James TIERNEY|MS Teams|
+| Sarah M-BRIGHT           | London       |
 
 :::
 ::::

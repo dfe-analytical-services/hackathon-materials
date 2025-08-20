@@ -61,23 +61,19 @@ format:
 
 ![](images/agenda_day2.png){figure-align="center"}
 
-## Presentation Tips
+## Presentation schdule
+
+{{< include presentations_timings.qmd >}}
+
+# Presentation Tips
+
+## Keep it concise:
 
 ::::: columns
 ::: {.column width="60%"}
--   Keep it concise: 5 to 10 minutes total, including time for questions.
-
-    -   Aim for around 7–8 minutes of presenting, leaving 2–3 minutes for Q&A.
-
--   Focus on key insights: Highlight the problem, your approach, and results.
-
--   Use visuals: Screenshots, charts, and code snippets can help convey your message.
-
--   Practice: Rehearse your presentation to ensure smooth delivery.
-
--   Be ready for questions: Anticipate questions and prepare answers in advance.
-
--   Make sure to email your slides to Menna by end of day today so we can prepare for the Stats Awayday.
+-    5 to 10 minutes total, including time for questions.
+-   Aim for around 7–8 minutes of presenting, leaving 2–3 minutes for Q&A.
+    
 :::
 
 ::: {.column width="40%"}
@@ -85,37 +81,102 @@ format:
 :::
 :::::
 
-## Presentation schdule
+## Focus on key insights    
+::::: columns
+::: {.column width="60%"}
 
-{{< include presentations_timings.qmd >}}
+
+-   Highlight the most important aspects of your project.
+-   What problem does it solve?
+-   What was your approach?
+-   What are the key features?
+-   What are the results?
+:::
+
+::: {.column width="40%"}
+![](images/fred-present.png){figure-align="center"}
+:::
+:::::
+
+## Use visuals
+::::: columns
+::: {.column width="60%"}
+You can use visuals to enhance your presentation including:
+
+  - Screenshots
+  - Charts
+  - Code snippets 
+  
+:::
+
+::: {.column width="40%"}
+![](images/fred-present.png){figure-align="center"}
+:::
+:::::
+## Practice and be ready for questions
+::::: columns
+::: {.column width="60%"}
+
+- Rehearse your presentation to ensure smooth delivery.
+
+- Anticipate questions and prepare answers in advance.
+:::
+
+::: {.column width="40%"}
+![](images/fred-present.png){figure-align="center"}
+:::
+:::::
+## Email your slides to Menna
+::::: columns
+::: {.column width="60%"}
+
+-   Make sure to email your slides to Menna by end of day today so we can prepare for the Stats Awayday.
+- [menna.zayed@education.gov.uk](mailto:menna.zayed@education.gov.uk)
+:::
+
+::: {.column width="40%"}
+![](images/fred-present.png){figure-align="center"}
+:::
+:::::
+
+
 
 ## Let's Get Started!
 
 -   Set up a Teams meeting for your Team check-in
 -   This will be followed by 'Hacking session #4' where you can continue development with drop-in sessions available.
 
-## Presentations
+## Presentation schdule
 
 {{< include presentations_timings.qmd >}}
 
 ## Voting
 
--   Best Overall Project : Most impactful, well-executed, and innovative solution.
+:::: columns
+::: {.column width="60%"}
 
--   Most Technically Impressive: Showcases advanced coding, data handling, or integration.
+-   Use the [Microsoft Form](https://forms.office.com/e/2z86g10qBx) to vote for your favourite projects for each category.
 
--   Best Use of Data: Clever or insightful use of datasets to drive outcomes.
-
--   Most Creative Solution: Unique or unexpected approach to solving the problem.
+-   Best innovative project: Demonstrates innovation in the technology and or the data used.
 
 -   Best Presentation/Demo: Clear, engaging, and professional delivery of the project.
+:::
+::: {.column width="40%"}
+![](images/fred-vote.png)
+:::
+::::
 
-
-## Closing remarks
-
+## Thank you!
+::::: columns
+::: {.column width="60%"}
 -   Thank you for your hard work and creativity over the past two days!
 -   We hope you enjoyed the hackathon and learned something new.
 -   We look forward to seeing your projects at the Stats Awayday on 11th September.
 -   Please remember to email your slides to Menna by the end of today.
--   We value your feedback! Please take a moment to fill out our [feedback form](https://forms.office.com/e/3b0a1c4d9f).
+-   We value your feedback! Please take a moment to fill out our [feedback form](https://forms.office.com/e/EpyYsqPaZx).
+:::
+::: {.column width="40%"}
+![](images/fred-thankyou.png)
+:::
+:::::
 

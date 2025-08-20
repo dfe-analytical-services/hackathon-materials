@@ -1,5 +1,5 @@
 |Time|Team|
-|------|-----------------------|
+|------------|----------------------|
 |16:00 - 16:10 |Persistent Absence Explorer|
 |16:10 - 16:20|Developing a Historical School Identifier Dimension|
 |16:20 - 16:30|LLMs for QA |

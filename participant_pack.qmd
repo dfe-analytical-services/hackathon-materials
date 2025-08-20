@@ -173,15 +173,15 @@ GitHub will be the primary platform for collaborating on code, managing project 
 -   **Collaboration**: Work together in real time, even if you're in different locations.
 -   **Version Control**: Keep track of changes, revert to previous versions, and avoid overwriting each other’s work.
 -   **Transparency**: Everyone can see what’s being worked on and contribute where needed.
--   **Documentation**: Use the README file in your repo and issues to explain your project and track tasks. 
+-   **Documentation**: Use the README file in your repo and issues to explain your project and track tasks.
 -   **Showcase and share your work**: At the end of the Hackathon, your GitHub repo becomes a portfolio piece you can share with the team that proposed the project.
 
 #### Your GitHub Repo
 
--  Create an account if you don’t have one yet. - [GitHub Sign Up](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github#signing-up-for-a-new-personal-account).
-- Let Menna know your GitHub username so she can give you the correct access.
-- Go to your repo, `r params$proj_repo`, clone it and start working together on it using branches.
-- Use [Git Academy](https://dfe-analytical-services.github.io/git-academy/), a self-directed training resource to help upskill in Git.
+-   Create an account if you don’t have one yet. - [GitHub Sign Up](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github#signing-up-for-a-new-personal-account).
+-   [Email Statistics.DEVELOPMENT@education.gov.uk](mailto:Statistics.DEVELOPMENT@education.gov.uk) with your GitHub username you can be given access to the repos.
+-   Go to your repo, `r params$proj_repo`, clone it and start working together on it using branches.
+-   Use [Git Academy](https://dfe-analytical-services.github.io/git-academy/), a self-directed training resource to help upskill in Git.
 
 #### Tips for Getting Started
 
@@ -243,16 +243,16 @@ if (isTRUE(nzchar(params$proj_other_resources))) {
 
 ```
 
-### Teams group
+### Volunteers, drop-ins and MS Teams support
+
+We have different groups of volunteers to support you with your projects. We have:
+
+-   Technical volunteers who will support through the [Pre-stats awayday hackathon group](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) on Teams and [Drop-in sessions](#drop-in-sessions)
+-   Data / subject expert volunteers who will support through the [Pre-stats awayday hackathon group](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) on Teams. This does not apply to all projects.
 
 ::: callout-important
 Our lead volunteers might not be able to respond to your message right away, as they could be assisting someone else. Try to get in touch with the supporting volunteers in these cases. We really appreciate your patience and kindness while waiting for a reply!
 :::
-
-We have different groups of volunteers to support you with your projects. We have:
-
--   Technical volunteers who will support through the [Pre-stats awayday hackathon group](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) on Teams and [Drop-in sessions](drop-in-sessions)
--   Data / subject expert volunteers who will support through the [Pre-stats awayday hackathon group](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) on Teams. This does not apply to all projects
 
 #### Data / subject expert volunteers
 
@@ -264,27 +264,34 @@ We have different groups of volunteers to support you with your projects. We hav
 
 #### Technical volunteers
 
+##### Drop-in sessions {#drop-in-sessions}
+
+Our technical volunteers are running drop-in sessions for the technical aspects of the projects. You can find the MS Teams link for the drop-in sessions and more information in the [agenda section](#agenda).
+
+##### MS Teams support
+
 ::: callout-tip
 Use '\@' to tag the relevant volunteers from the table below so they can spot your questions faster. We also encourage you to help each other out in the channel.
 :::
 
--   Go to the [Pre-stats awayday hackathon group](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) group on Teams.
--   Use the MS Teams channel to ask questions and get help from the organisers and volunteers.
--   Select the relevant channel for your query.
+If you need help with your project outside of the drop-in sessions, you can:
+
+1.  Go to the [Pre-stats awayday hackathon group](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) group on Teams.
+
+2.  Use the MS Teams channel to ask questions and get help from the organisers and volunteers.
+
+3.  Select the relevant channel for your query.
 
     -   For example, we have a channel dedicated to RShiny where you can post all your RShiny related questions.
--   Provide the following so the volunteers can help you:
+
+4.  Provide the following so the volunteers can help you:
 
     -   Your project name
     -   A summary of the issue you are facing
     -   Any error messages you are getting
-    -   Minimal reproducible example to recreate your error if applicable 
+    -   [Minimal reproducible example](https://stackoverflow.com/help/minimal-reproducible-example) to recreate your error if applicable
 
 {{< include "tech_volunteer_list.qmd" >}}
-
-### Drop-in sessions
-
-Our technical volunteers are running drop-in sessions for the technical aspects of the projects. You can find the MS Teams link for the drop-in sessions and more information in the [agenda section](#agenda).
 
 ### Ideas for solutions
 
@@ -301,7 +308,7 @@ The following is a suggestion by the team that proposed the project to help you 
 
 -   The presentation should be from 5 - 10 minutes maximum.
 
-    - Aim for around 7–8 minutes of presenting, leaving 2–3 minutes for Q&A.
+    -   Aim for around 7–8 minutes of presenting, leaving 2–3 minutes for Q&A.
 
 -   Also please ensure at least one person from your team is available to present at the end of the hackathon and at the DfE Stats awayday.
 :::
