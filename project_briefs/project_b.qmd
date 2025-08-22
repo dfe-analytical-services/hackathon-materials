@@ -1,0 +1,170 @@
+---
+title: " `r params$proj_name` - Hackathon Project Brief"
+format: 
+  html:
+    embed-resources: true
+    toc: true
+engine: knitr
+params:
+  proj_name: "Project name"
+  proj_desc: "Project description"
+  proj_important: "This project is important because"
+  proj_solution: "This project will solve the problem by"
+  proj_data_1: "Data needed for the project..."
+  proj_data_2: "Data availability..."
+  proj_code: "Existing code available..."
+  proj_tools: "Tools to use for the project..."
+  proj_know: "A subject knowledge expert will/will not be available"
+  proj_real: "Realistic expectations for the project..."
+  proj_chall: "Known challenges and limitations..."
+  proj_info: "Other information about the project..."
+  proj_datacamp: "Data camp courses you can use ..."
+  proj_other_resources: "Other resources you can use ..."
+  proj_skills: "Skills you will develop by working on this project"
+editor: visual
+---
+
+## 💡 Project Information {#project-info}
+
+::: callout-tip
+These details are provided by the teams who proposed the project. You can use this section to help you plan your project and your presentation.
+:::
+
+### The problem the project aims to solve
+
+`r params$proj_desc`
+
+### Why is this project important/interesting to explore
+
+`r params$proj_important`
+
+### Skills you will develop by working on this project
+
+`r params$proj_skills`
+
+### Known challenges and limitations to the project
+
+```{r, results='asis', echo=FALSE}
+
+if (params$proj_chall == "") {
+  cat("No known challenges or limitations were provided for this project.\n")
+} else {
+  cat(params$proj_chall, "\n")
+}
+
+```
+
+
+### Vision for the project by end of hackathon
+
+::: callout-tip
+This is the vision that the team who proposed the project had in mind for the end result of the hackathon. However, if you have a different idea for the end result that would work better, we encourage you to go with your idea
+:::
+
+```{r, results='asis', echo=FALSE}
+
+if (params$proj_real == "") {
+  cat("The team who proposed this project did not have a specific vision for the end product of this project.\n")
+} else {
+  cat(params$proj_real, "\n")
+}
+
+```
+
+## 🛠 Data and tools
+
+### Data you need
+
+::: callout-tip
+This is the data you will need to use for the project. This information was provided by the team who proposed the project.
+:::
+
+#### Data information 
+
+`r params$proj_data_1`
+
+#### Data access
+
+`r params$proj_data_2`
+
+### Is there existing code you can use?
+
+```{r, results='asis', echo=FALSE}
+
+if (params$proj_code=="") {
+  cat("No existing code is available for this project.\n")} else {
+  cat(params$proj_code, "\n")
+}
+
+```
+
+### Tools you can use
+
+::: callout-tip
+The following are tools suggested by the team that proposed the project to help you get started. Feel free to use tools that suit you and your team.
+:::
+
+```{r, results='asis', echo=FALSE}
+
+if (params$proj_tools == "") {
+  cat("No specific tools are required for this project.\n")
+} else {
+  cat(params$proj_tools, "\n")
+}
+
+```
+
+
+## 🤝 Support available
+
+### Support for data background about the project
+
+```{r, results='asis', echo=FALSE}
+
+if (params$proj_know == "") {
+  cat("No subject matter expert is available for this project.\n")
+} else {
+  cat(params$proj_know, "\n")
+}
+
+```
+
+### Online courses and resources to help upskill
+
+#### DataCamp
+
+::: callout-tip
+Don't have a DataCamp license? Email Lisa Smyth at [datacamp.requests\@education.gov.uk](mailto:datacamp.requests@education.gov.uk) ccing your line manager to get your license before the hackathon!
+:::
+
+```{r, results='asis', echo=FALSE}
+
+if (params$proj_datacamp == "") {
+  cat("No DataCamp courses were provided for this project.\n")
+} else {
+
+sen <- stringr::str_split_1(params$proj_datacamp, ";")
+
+  for (i in sen){
+    
+    cat("- ", i,"\n")
+  }}
+```
+
+#### Other resources
+
+```{r other_resources , results='asis', echo=FALSE}
+
+if (isTRUE(nzchar(params$proj_other_resources))) {
+  sen <- stringr::str_split_1(params$proj_other_resources, ";")
+  for (i in sen) {
+    cat("- ", i, "\n")
+  }
+} else {
+  cat("No other resources were provided for this project.\n")
+}
+
+
+
+```
+

@@ -1,0 +1,41 @@
+---
+title: "Pre-Stats Awayday Hackathon – Code of Conduct"
+format: 
+  html:
+    embed-resources: true
+editor: visual
+---
+
+### **Our Commitment**
+
+We’re committed to making the hackathon a welcoming, inclusive, and respectful space for everyone, regardless of background, identity, or experience. We want all participants to feel safe, supported, and empowered to contribute.
+
+### **Expected Behaviour**
+
+To help create a positive and collaborative environment, we ask all participants to:
+
+-   Be kind, respectful, and inclusive
+
+-   Listen actively and value different perspectives
+
+-   Give constructive feedback and accept it graciously
+
+-   Collaborate with curiosity and openness
+
+-   Help foster a fun and supportive atmosphere
+
+### **Unacceptable Behaviour**
+
+We will not tolerate:
+
+-   Harassment, discrimination, or exclusionary behaviour
+
+-   Offensive or inappropriate language, including sexualised content
+
+-   Personal attacks, trolling, or disruptive behaviour
+
+-   Sharing others’ private information without consent
+
+### **Reporting Issues**
+
+If you experience or witness any behaviour that makes you feel uncomfortable or unsafe, please contact the organising team at [**statistics.development\@education.gov.uk**](mailto:statistics.development@education.gov.uk).

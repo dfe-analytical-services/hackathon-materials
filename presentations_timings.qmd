@@ -1,9 +1,0 @@
-|Time|Team|
-|------------|----------------------|
-|16:00 - 16:10 |Persistent Absence Explorer|
-|16:10 - 16:20|Developing a Historical School Identifier Dimension|
-|16:20 - 16:30|LLMs for QA |
-|16:30 - 16:40|Form to Report Generator|
-|16:40 - 16:50|Voting|
-|16:50 - 17:00|Closing remarks|
-

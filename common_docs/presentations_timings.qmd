@@ -1,0 +1,9 @@
+|Time|Team|
+|------------|----------------------|
+|16:00 - 16:10 |Automated QA of SPC/SEN|
+|16:10 - 16:20|Developing a Historical School Identifier Dimension|
+|16:20 - 16:30|Persistent Absence Explorer |
+|16:30 - 16:40|Using LLMs for Third-Line QA on Statistical Releases|
+|16:40 - 16:50|Voting|
+|16:50 - 17:00|Closing remarks|
+
