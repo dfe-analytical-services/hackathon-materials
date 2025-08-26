@@ -1,0 +1,74 @@
+---
+title: "Pre-stats Awayday Hackathon"
+title-slide-attributes:
+  data-background-position: top
+  data-background-image: ../images/sanctuary-buildings.jpg
+  data-background-size: cover
+  data-background-opacity: "0.1"
+author: "Menna Zayed"
+institute: Department for Education
+format:
+  revealjs:
+   theme: [dark, ../dfe-quarto-slides.scss]
+   width: 1060
+   height: 900
+   minScale: 0.2
+   maxScale: 3.0
+   logo: ../images/DfE_logo_landscape.svg
+   self-contained: true
+---
+
+## Hackathon Background
+:::: columns
+::: {.column width="60%"}
+- On the 3rd-4th September, we hosted a 2-day Hackathon.
+- This event was open to everyone in DfE with any skill levels.
+  
+    - We wanted this to be a chance for people to upskill and network
+    
+- Teams worked on 4 projects that were proposed by colleagues across the department looking for innovative solutions to real-world problems.
+- Today these teams will present what they built, how they did it, and what’s next.
+:::
+::: {.column width="40%"}
+![](../images/hackathon_fred.png)
+:::
+:::::
+## Presentations overview
+:::: columns
+::: {.column width="60%"}
+
+- Each team will present for 5-10 minutes
+- Followed by 2-3 minutes for questions
+- At the end you will be voting for:
+
+    - Best innovative project: Demonstrates innovation in the technology and or the data used.
+    - Best Presentation/Demo: Clear, engaging, and professional delivery of the project.
+
+:::
+::: {.column width="40%"}
+![](../images/fred-vote.png)
+:::
+::::
+
+## Teams and presentations 
+
+- Automated QA of SPC/SEN
+- Developing a Historical School Identifier Dimension
+- Persistent Absence Explorer 
+- Using LLMs for Third-Line QA on Statistical Releases
+
+## Voting
+
+:::: columns
+::: {.column width="60%"}
+
+-   Use the [Microsoft Form](https://forms.office.com/e/2z86g10qBx) to vote for your favourite projects for each category.
+
+-   Best innovative project: Demonstrates innovation in the technology and or the data used.
+
+-   Best Presentation/Demo: Clear, engaging, and professional delivery of the project.
+:::
+::: {.column width="40%"}
+![](../images/qr_code_voting.png)
+:::
+::::

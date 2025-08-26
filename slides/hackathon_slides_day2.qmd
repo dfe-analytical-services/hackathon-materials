@@ -130,8 +130,8 @@ You can use visuals to enhance your presentation including:
 ::::: columns
 ::: {.column width="60%"}
 
--   Make sure to email your slides to Menna by end of day today so we can prepare for the Stats Awayday.
-- [menna.zayed@education.gov.uk](mailto:menna.zayed@education.gov.uk)
+-   Make sure to email your slides to the Statistics Development mailbox by end of day today so we can prepare for the Stats Awayday.
+- [Statistics.DEVELOPMENT@education.gov.uk](mailto:Statistics.DEVELOPMENT@education.gov.uk)
 :::
 
 ::: {.column width="40%"}

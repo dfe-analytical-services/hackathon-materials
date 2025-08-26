@@ -330,5 +330,5 @@ Your team will be presenting your project at the end of the hackathon and at the
 
 -   Use the [DfE Quarto Slides Template](https://github.com/dfe-analytical-services/quarto-slides-template) for your presentation by downloading the materials from the [linked repo](https://github.com/dfe-analytical-services/quarto-slides-template) and uploading it to your own project's repo.
 
-    -   Altneratively you can use, PowerPoint.
+    -   Altneratively you can use PowerPoint.
 :::

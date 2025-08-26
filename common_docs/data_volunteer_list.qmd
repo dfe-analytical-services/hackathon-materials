@@ -3,5 +3,5 @@
 | Project | Data/Subject Expert Volunteer(s) |
 |--------------------------------------|----------------------------------|
 | Persistent Absence Explorer (EES API) | Tom Curd |
-| Developing a Historical School Identifier Dimension | Pennie Vargas (availability on the 3rd Sept - TBC) |
+| Developing a Historical School Identifier Dimension | Pennie Vargas (not available Wed 3rd Sept 09:00-11:30) |
 | Automated QA of Schools, pupils and their characteristics / SEN | TBC |
