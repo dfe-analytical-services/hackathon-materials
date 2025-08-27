@@ -12,7 +12,7 @@ format:
 
 Hackathons are dynamic, high-energy events where teams collaborate to solve real-world challenges in a short time. As a volunteer, your support is essential to helping participants stay focused, motivated, and productive. This guide outlines what to expect and how you can contribute, depending on your role.
 
-We asked participants to post their questions in the [Help and support](https://teams.microsoft.com/l/channel/19%3A5a57b51811a74da694ee272057caebac%40thread.tacv2/Help%20and%20support?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) channel on [Pre-stats awayday hackathon](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) on Teams. Please monitor the channel and try to answer their questions as soon as possible.
+We asked participants to post their questions in the [Pre-stats awayday hackathon group](https://teams.microsoft.com/l/team/19%3AmDwTrFC1t5hhuDsXfajF516hmOWTFGjgIvJcPjdCLNM1%40thread.tacv2/conversations?groupId=620ed7ec-9dc9-4ca1-bc7b-848f6bd80878&tenantId=fad277c9-c60a-4da1-b5f3-b3b8b34a82f9) on Teams. Please monitor the group and try to answer their questions as soon as possible.
 
 ### 🧠 Data Experts
 
@@ -48,7 +48,10 @@ We asked participants to post their questions in the [Help and support](https://
 
 -   You might assist with debugging, optimization, or helping teams choose the right tools.
 
--   Some of you will be running a drop-in session both days of the hackathon. Please see the [Agenda section](#agenda) for more detail.
+-   The lead volunteers for each area except Python will be running a drop-in session both days of the hackathon. Please see the [Agenda section](#agenda) for more detail.
+
+    - If Volnteers who are supporting on each area are available during these drop-in sessions, please join in to help out.
+    - These sessions are for participants to drop in and ask questions that haven't been picked up over the Teams group. 
 
 **Tips:**
 

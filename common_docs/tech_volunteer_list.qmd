@@ -4,6 +4,6 @@
 | RShiny |Cam Race| Rich Bielby and Menna Zayed |
 | R data manipulation |Menna Zayed| Lara Garbett and Lauren Snaathorst  |
 | Automated QA | Lara Garbett| Rich Bielby, Cam Race, Lauren Snaathorst and Menna Zayed |
-| LLMs | Philip Ovington |- |
+| LLMs | Philip Ovington |TBC |
 | EES API | Rich Bielby  | Cam Race|
 | Python | Mohamed Zayed |- |
