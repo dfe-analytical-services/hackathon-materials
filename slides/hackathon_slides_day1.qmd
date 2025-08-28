@@ -20,28 +20,24 @@ format:
 
 ## Hackathon Day 1 Kickoff!
 
-::::: columns
-::: {.column width="60%"}
+
 - Welcome to the Pre-Stats Awayday Hackathon!
 - Get ready for two days of hands-on learning, creativity, and collaboration as we tackle real-world challenges together.
 
-
-:::
-
-::: {.column width="40%"}
 ![](../images/hackathon_fred.png)
-:::
-:::::
+
 
 
 ## What to expect
 ::::: columns
 ::: {.column width="50%"}
-- Over the next two days, you’ll:
+Over the next two days, you’ll:
 
-    - Work in teams on a project of your choice
-    - Build something innovative and useful
-    - Present your work here and at the Stats Awayday on 11th September
+- Work in teams on a project that solves / helps with a real DfE data challenge
+- Present your work to:
+
+    - other participants and ESLG members at the end of the hackathon (4th September).
+    - Stats Awayday audience on 11th September.
 :::
 ::: {.column width="50%"}
 
@@ -67,6 +63,9 @@ format:
 ![](../images/fred-present.png)
 :::
 ::::
+::: {.notes}
+We linked the DfE quarto template we have on GitHub in the participant guide and you can use that for the presentation. In, fact i'm using it now. You can alternatively use powerpoint.
+:::
 ## Meet the volunteers {.smaller}
 
 ::: panel-tabset
@@ -95,11 +94,17 @@ format:
 
 ### Data background / Subject expert volunteers
 
-::: {layout-ncol=2}
+::: {layout-nrow=2}
+
+![Charlotte Housden-Rowe - Automated QA of SPC/SEN](../images/charlotte_hr.jpg){fig-align="left" width=50%}
+
+![Ricardo Hayward - Automated QA of SPC/SEN](../images/ricardo.jpg){fig-align="left" width=50%}
+
+
+![Pennie Vargas - Developing a Historical School Identifier Dimension](../images/pennie.jpg){fig-align="left" width=50%}
 
 ![Tom Curd - Persistent Absence Explorer](../images/tom.jpg){fig-align="left" width=50%}
 
-![Pennie Vargas - Developing a Historical School Identifier Dimension](../images/pennie.jpg){fig-align="left" width=50%}
 
 :::
 :::
@@ -196,7 +201,7 @@ This project explores whether large language models (LLMs) can help spot pattern
 
 :::
 
-## Presentation schdule
+## Presentation schedule
 
 {{< include ../common_docs/presentations_timings.qmd >}}
 
@@ -204,14 +209,17 @@ This project explores whether large language models (LLMs) can help spot pattern
 
 ## Hackathon Participant Guide
 
-::::: columns
-::: {.column width="60%"}
 
-:::callout-important
-Check your file to make sure it matches your project — look for the project name next to the title
-:::
-
+- Check your file to make sure it matches your project — look for the project name next to the title
 - Sent via email and available in MS Teams → Files tab
+- Contains all the info you need for the hackathon
+- Can be navigated easily through the table of contents at the right hand side
+
+
+![](../images/overall_hackathon_guide.png)
+
+
+:::{.notes}
 - Includes:
 
     - Agenda & room bookings
@@ -222,13 +230,8 @@ Check your file to make sure it matches your project — look for the project na
     - GitHub links
     - Support resources
     - Presentation guidance
+    
 :::
-
-::: {.column width="40%"}
-![](../images/overall_hackathon_guide.png)
-:::
-:::::
-
 
 
 ## Code of conduct
@@ -273,17 +276,31 @@ Check your file to make sure it matches your project — look for the project na
 
 ::::: columns
 ::: {.column width="60%"}
-- The 'Data and tools' section in your guide provides:
+The 'Data and tools' section in your guide provides:
 
-    - Links to data you need
-    - Tools for project planning and collaboration (Miro, Lucid, Trello)
-    - GitHub repository links for code sharing and documentation
+- Links to data you need
+- Tools for project planning and collaboration (Miro, Lucid, Trello)
+- Link to your GitHub repository 
 :::
 ::: {.column width="40%"}
 ![](../images/builder_frederick.png)
 :::
 :::::
 
+:::{.notes}
+- Data is publicly available on EES for all projects. You can download the CSVs from the EES website or use the EES API (link in the guide) to pull the data.
+
+- Make sure to pick a project planning tool that suites you best. 
+
+- You may need to create an account for your team's preferred tool if you don't already have one. 
+
+- If your team doesn't have a Lucid licence, you may struggle to use all the features provided so we recommend trello or miro in that case. 
+
+- The links provided for the project planning tools are templates and we gave instructions on how to duplicate these templates so you can use them for your team. 
+
+- You will have recieved an email notification about being added to your GitHub repo for your hackathon project. We also included the link to that repo in your pack. 
+
+:::
 ## Getting help
 ::::columns
 ::: {.column width="60%"}
@@ -325,7 +342,38 @@ Check your file to make sure it matches your project — look for the project na
 :::
 ::::   
 
+## 'Meet the team' acvitity 
 
+::::columns
+::: {.column width="60%"}
+
+- We planned a short activity so that you and your team get to know each other. 
+- If you choose to use Lucid or Miro, the activity is included as part of the board.
+- It is not on the Trello board templates, but we linked a modified version of it so that your team can still take part if you want to choose Trello as your project planning tool. 
+:::
+::: {.column width="40%"}
+![](../images/fred_meet_the_team.png)
+:::
+::::
+
+## Things to consider
+::::columns
+::: {.column width="60%"}
+
+-   Project planning tools that suit your team
+
+-   The coding language you will use
+
+-   How you will break down the project and assign parts to different members
+
+-   How you can utilize different people's expertise while still pushing for development
+
+-   Make sure to set up calls for the team check-ins scheduled in the agenda
+:::
+::: {.column width="40%"}
+![](../images/fred_consider.png)
+:::
+::::
 
 ## Let's get started!
 
@@ -334,31 +382,17 @@ Check your file to make sure it matches your project — look for the project na
 
 Here is a check list to help you: 
 
-1.  Set up a teams chat with your team
+- [ ] Set up a teams chat with your team
 
-2.  Set up a call with your team to plan your project
+- [ ] Set up a call with your team to plan your project
 
-3.  Decide on your project planning tool
+- [ ]  Decide on your project planning tool
 
-4.  Complete the 'Meet your team!' activity. You will find it on the Miro and Lucid boards or a link to a modified version if you choose Trello instead.
+- [ ]  Complete the 'Meet your team!' activity. You will find it on the Miro and Lucid boards or a link to a modified version if you choose Trello instead.
 :::
 ::: {.column width="50%"}
 
-::: callout-tip
-## Things to consider:
-
-```         
--   Project planning tools
-
--   The coding language you will use
-
--   Break down the project and assign parts to different members
-
--   How you can utilize different people's expertise while still pushing for development
-
--   Make sure to set up calls for the team check-ins scheduled in the agenda
-```
-:::
+![](../images/fred_start.png)
 :::
 ::::
 

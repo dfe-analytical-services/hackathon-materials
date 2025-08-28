@@ -61,7 +61,7 @@ format:
 
 ![](../images/agenda_day2.png){figure-align="center"}
 
-## Presentation schdule
+## Presentation schedule
 
 {{< include ../common_docs/presentations_timings.qmd >}}
 
@@ -146,7 +146,7 @@ You can use visuals to enhance your presentation including:
 -   Set up a Teams meeting for your Team check-in
 -   This will be followed by 'Hacking session #4' where you can continue development with drop-in sessions available.
 
-## Presentation schdule
+## Presentation schedule
 
 {{< include ../common_docs/presentations_timings.qmd >}}
 
