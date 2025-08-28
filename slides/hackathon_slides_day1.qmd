@@ -342,7 +342,7 @@ The 'Data and tools' section in your guide provides:
 :::
 ::::   
 
-## 'Meet the team' acvitity 
+## 'Meet the team' activity 
 
 ::::columns
 ::: {.column width="60%"}
