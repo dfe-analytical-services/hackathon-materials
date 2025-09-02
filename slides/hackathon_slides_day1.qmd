@@ -118,8 +118,8 @@ format:
 ::: notes
 -   Structure of presentation is provided in your pack at the bottom.
 -   Timing is really important for the presentations as we're tight on time on the awayday
--   Tomorrow you can pratice and refine your timing.
--   We linked the DfE quarto template we have on GitHub in the participant guide and you can use that for the presentation. In, fact i'm using it now. You can alternatively use powerpoint
+-   Tomorrow you can practice and refine your timing.
+-   We linked the DfE quarto template we have on GitHub in the participant guide and you can use that for the presentation. In, fact I'm using it now. You can alternatively use powerpoint
 - After the presentation, we will have time for all of you to vote for best innovative project and best presentation. Voting will also happen on the awayday!
 :::
 
@@ -154,7 +154,7 @@ This project aims to streamline the manual cross-checking of school census data 
 | Nathan CHALAM-JUDGE | Sheffield                    |
 | Josie BRETT         | MS Teams                     |
 | Mark HORTON         | MS Teams                     |
-| Matthew ROLFE       | Sheffield                    |
+| Matthew ROLFE       | Mix of virtual and Sheffield |
 | Ricardo HAYWARD     | London                       |
 :::
 :::::
@@ -177,6 +177,7 @@ This project aims to create a consistent way to track schools over time, despite
 | Matthew ROBINSON | London       |
 | James TIERNEY    | MS Teams     |
 | Sarah M-BRIGHT   | London       |
+|Zofia Jones| -|
 :::
 :::::
 
