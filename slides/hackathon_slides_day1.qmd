@@ -150,7 +150,6 @@ This project aims to streamline the manual cross-checking of school census data 
 ::: {.column width="60%"}
 | **Team member**     | **Location**                 |
 |---------------------|------------------------------|
-| Kester JARVIS       | Wed: MS Teams. Thurs: London |
 | Nathan CHALAM-JUDGE | Sheffield                    |
 | Josie BRETT         | MS Teams                     |
 | Mark HORTON         | MS Teams                     |
@@ -378,15 +377,20 @@ The 'Data and tools' section in your guide provides:
 
 ![Cam Race - RShiny](../images/cam.jpg){fig-align="left" width="40%"}
 
-![Menna Zayed - R data manipulation](../images/menna.jpg){fig-align="left" width="40%"}
+![Menna Zayed - Automated QA / R data manipulation](../images/menna.jpg){fig-align="left" width="40%"}
 
-![Lara Garbett - Automated QA](../images/lara.jpg){fig-align="left" width="40%"}
 
-![Phil Ovington - LLMs](../images/no_picture.png){fig-align="left" width="40%"}
 
 ![Rich Bielby - EES API](../images/rich.jpg){fig-align="left" width="40%"}
 
 ![Mohamed Zayed - Python](../images/mohamed.jpg){fig-align="left" width="40%"}
+
+
+
+![Phil Ovington - LLMs](../images/no_picture.png){fig-align="left" width="40%"}
+
+![Ed Owens and Team - LLMs on Databricks](../images/ed.jpg){fig-align="left" width="40%"}
+
 :::
 
 ### Data background / Subject expert volunteers
@@ -406,8 +410,12 @@ The 'Data and tools' section in your guide provides:
 
 - Massive thank you to all our volunteers.
 - The people on the screen right now are our lead volunteers for technical areas 
-- The leads will be running the drop in sessions today and tomorrow
+- The leads will be running the drop in sessions today and tomorrow except for Mo as Python is too general of an area so you can drop him messages if you need support and he can provide guidance and support. 
+- Ed and his team have limited availability so they will be doing a demo session right after this for the Using LLMs for third line QA team today but may not be available for the other drop in sessions.
+- The drop-in sessions will be focused on questions you bring to the volunteers during those sessions. Focus on queries that are more he;pful to talk through than post on teams.
+- We don't expect our volunteers to know all the answers so you shouldn't either! They may sign post you to someone else who may know the answer and they may need time to fidn answers and get back to you.
 - We also have support volunteers for our lead technical experts and you can find their names in your pack
+- If you have questions, we do encourage you to post them in the MS Teams group in the relevant channels while tagging the relevant volunteers so one of them can pick it up.
 - Then we have our data expert volunteers 
 
 :::
