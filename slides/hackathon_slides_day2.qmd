@@ -50,7 +50,9 @@ format:
 
 -   Prepare your presentations
 
--   Present your work at the end of the day
+-   Present your work at the end of the day and vote - winning teams announced on awayday!
+
+-   You will be asked to fill our [anonymous feedback form](https://forms.office.com/e/EpyYsqPaZx) - we value your feedback!
 :::
 
 ::: {.column width="40%"}
@@ -92,7 +94,24 @@ format:
 
 # Presentation Tips
 
-## Keep it concise:
+## Presentation approach
+::::: columns
+::: {.column width="60%"}
+- 2 days to plan and work on the project so polished final projects are not expected!
+- Focus on what you learned by talking about:
+
+    - Skills you gained
+    - Challenges you faced and how you tried to tackle them
+    - What worked and what didn't and why? Knowing why approaches don't work is valuable! 
+    
+:::
+
+::: {.column width="40%"}
+![](../images/fred-learn.png){figure-align="center"}
+:::
+:::::
+
+## Keep it concise
 
 ::::: columns
 ::: {.column width="60%"}
@@ -102,9 +121,10 @@ format:
 :::
 
 ::: {.column width="40%"}
-![](../images/fred-present.png){figure-align="center"}
+![](../images/fred-clock.png){figure-align="center"}
 :::
 :::::
+
 
 ## Focus on key insights    
 ::::: columns
@@ -116,10 +136,15 @@ format:
 -   What was your approach?
 -   What are the key features?
 -   What are the results?
+-   What's next? 
+
+    - Are you handing this project over?
+    - Are you interested in continuing to work on it for your development?
+    
 :::
 
 ::: {.column width="40%"}
-![](../images/fred-present.png){figure-align="center"}
+![](../images/fred-key.png){figure-align="center"}
 :::
 :::::
 
@@ -135,7 +160,7 @@ You can use visuals to enhance your presentation including:
 :::
 
 ::: {.column width="40%"}
-![](../images/fred-present.png){figure-align="center"}
+![](../images/fred-viz.png){figure-align="center"}
 :::
 :::::
 ## Practice and be ready for questions
@@ -160,7 +185,7 @@ You can use visuals to enhance your presentation including:
 :::
 
 ::: {.column width="40%"}
-![](../images/fred-present.png){figure-align="center"}
+![](../images/fred-email.png){figure-align="center"}
 :::
 :::::
 
@@ -210,7 +235,7 @@ You can use visuals to enhance your presentation including:
 -   Special thanks to our volunteers for their invaluable support.
 -   We look forward to seeing your projects at the Stats Awayday on 11th September.
 -   Please remember to email your slides to  [Statistics.DEVELOPMENT@education.gov.uk](mailto:Statistics.DEVELOPMENT@education.gov.uk) by 9th of September.
--   We value your feedback! Please take a moment to fill out our [feedback form](https://forms.office.com/e/EpyYsqPaZx).
+-   We value your feedback! Please take a moment to fill out our [anonymous feedback form](https://forms.office.com/e/EpyYsqPaZx).
 :::
 ::: {.column width="40%"}
 ![](../images/fred-thankyou.png)
