@@ -1,0 +1,102 @@
+---
+title: "Pre-Hackathon Tasks - `r params$proj_name`"
+format: 
+  html:
+    embed-resources: true
+    toc: true
+engine: knitr
+params:
+  proj_name: "Project name"
+  proj_desc: "Project description"
+  proj_important: "This project is important because"
+  proj_solution: "This project will solve the problem by"
+  proj_data_1: "Data needed for the project..."
+  proj_data_2: "Data availability..."
+  proj_code: "Existing code available..."
+  proj_tools: "Tools to use for the project..."
+  proj_know: "A subject knowledge expert will/will not be available"
+  proj_real: "Realistic expectations for the project..."
+  proj_chall: "Known challenges and limitations..."
+  proj_info: "Other information about the project..."
+  proj_datacamp: "Data camp courses you can use ..."
+  proj_other_resources: "Other resources you can use ..."
+  proj_skills: "Skills you will develop by working on this project"
+  proj_repo: "GitHub repository link"
+---
+
+
+## Pre-Hackathon Tasks Checklist
+
+-   [ ] MS Teams
+
+-   [ ]  GitHub
+
+-   [ ] Learning Resources
+
+## MS Teams
+
+-   We created a MS Teams channel for you to ask questions and get help from the organisers and volunteers.
+-   Turn on the notifications for the 'General' channel in the Pre-stats awayday hackathon group on MS Teams to get updates about the hackathon before and during the event as shown below.
+
+![](images/teams_notifs.png)
+
+## Code sharing - GitHub
+
+::: callout-tip
+No experience using Git or would like a refresher? Use [Git Academy](https://dfe-analytical-services.github.io/git-academy/), a self-directed training resource to help upskill in Git.
+:::
+
+GitHub will be the primary platform for collaborating on code, managing project files, and tracking progress during the Hackathon because it allows for:
+
+-   **Collaboration**: Work together in real time, even if you're in different locations.
+-   **Version Control**: Keep track of changes, revert to previous versions, and avoid overwriting each other’s work.
+-   **Transparency**: Everyone can see what’s being worked on and contribute where needed.
+-   **Documentation**: Use the README file in your repo and issues to explain your project and track tasks.
+-   **Showcase and share your work**: At the end of the Hackathon, your GitHub repo becomes a portfolio piece you can share with the team that proposed the project.
+
+#### Your GitHub Repo
+
+-   Create an account if you don’t have one yet. - [GitHub Sign Up](https://docs.github.com/en/get-started/start-your-journey/creating-an-account-on-github#signing-up-for-a-new-personal-account).
+-   [Email Statistics.DEVELOPMENT\@education.gov.uk](mailto:Statistics.DEVELOPMENT@education.gov.uk) with your GitHub username you can be given access to the repos.
+-   Use [Git Academy](https://dfe-analytical-services.github.io/git-academy/), a self-directed training resource to help upskill in Git.
+
+
+## Online courses and resources to help upskill
+
+### DataCamp
+
+::: callout-tip
+Don't have a DataCamp license? Email Lisa Smyth at [datacamp.requests\@education.gov.uk](mailto:datacamp.requests@education.gov.uk) ccing your line manager to get your license before the hackathon!
+:::
+
+```{r, results='asis', echo=FALSE}
+
+if (params$proj_datacamp == "") {
+  cat("No DataCamp courses were provided for this project.\n")
+} else {
+
+sen <- stringr::str_split_1(params$proj_datacamp, ";")
+
+  for (i in sen){
+    
+    cat("- ", i,"\n")
+  }}
+```
+
+### Other resources
+
+```{r other_resources , results='asis', echo=FALSE}
+
+if (isTRUE(nzchar(params$proj_other_resources))) {
+  sen <- stringr::str_split_1(params$proj_other_resources, ";")
+  for (i in sen) {
+    cat("- ", i, "\n")
+  }
+} else {
+  cat("No other resources were provided for this project.\n")
+}
+
+
+
+```
+

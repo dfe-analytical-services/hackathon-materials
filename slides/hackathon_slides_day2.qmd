@@ -1,0 +1,261 @@
+---
+title: "Hackathon Day 2 Kickoff!"
+title-slide-attributes:
+  data-background-position: top
+  data-background-image: ../images/sanctuary-buildings.jpg
+  data-background-size: cover
+  data-background-opacity: "0.1"
+author: "Menna Zayed"
+institute: Department for Education
+format:
+  revealjs:
+   theme: [dark, ../dfe-quarto-slides.scss]
+   width: 1060
+   height: 900
+   minScale: 0.2
+   maxScale: 3.0
+   logo: ../images/DfE_logo_landscape.svg
+   self-contained: true
+---
+
+## Hackathon Day 2 Kickoff!
+
+
+-   Welcome back to Day 2 of the Pre-Stats Awayday Hackathon!
+-   We hope you had a productive Day 1 and are ready to dive back into your projects.
+
+![](../images/hackathon_fred.png)
+
+
+## Recap of day 1
+
+-   Project planning ✅
+-   Data access and tool setup ✅
+-   Initial coding and development ✅
+
+:::notes
+-   Yesterday, you worked on planning your projects, setting up data access and tools, and starting the initial coding and development.
+-   We also had drop-in sessions with our volunteers to help you with any challenges you faced.
+:::
+
+## Aims of today
+
+::::: columns
+::: {.column width="60%"}
+-   Finalize your projects
+
+    -   Finalise building and testing your prototype
+    -   Make sure your code is on the GitHub repo
+    -   Make sure you have a detailed README file in your repo
+
+-   Prepare your presentations
+
+-   Present your work at the end of the day and vote - winning teams announced on awayday!
+
+-   You will be asked to fill our [anonymous feedback form](https://forms.office.com/e/EpyYsqPaZx) - we value your feedback!
+:::
+
+::: {.column width="40%"}
+![](../images/fred_aim.png){figure-align="center"}
+:::
+:::::
+
+:::notes
+-   Today, the main goals are to finalize your projects and prepare your presentations.
+-   Make sure your code is on the GitHub repo with a detailed README file.
+-   At the end of the day, you will present your work to all groups, some volunteers and other colleagues.
+-   You will also be presenting your projects at the Stats Awayday on 11th September. 
+-   Make sure at least one person is available to present on that day.
+-   Remember to email your slides to the Statistics Development mailbox by 9th September.
+:::
+
+## Agenda for Day 2
+
+![](../images/agenda_day2.png){figure-align="center"}
+
+:::notes
+
+-   Here is the agenda for today.
+-   We will start with a team check-in after this session to discuss progress and any challenges.
+-   This will be followed by a mix of hacking sessions where you can continue development with drop-in sessions available.
+- Finally, we will have the presentations at the end of the day.
+
+:::
+
+## Presentation schedule
+
+{{< include ../common_docs/presentations_timings.qmd >}}
+
+:::notes
+-   Each team will present for 5-10 minutes followed by 2-3 minutes for questions.
+-   At the end, you will vote for the best innovative project and best presentation/demo.
+-   If this timing does not suit your team, please let me know. Remember not everyone needs to be at the presentation.
+:::
+
+# Presentation Tips
+
+## Presentation approach
+::::: columns
+::: {.column width="60%"}
+- 2 days to plan and work on the project so polished final projects are not expected!
+- Focus on what you learned by talking about:
+
+    - Skills you gained
+    - Challenges you faced and how you tried to tackle them
+    - What worked and what didn't and why? Knowing why approaches don't work is valuable! 
+    
+:::
+
+::: {.column width="40%"}
+![](../images/fred-learn.png){figure-align="center"}
+:::
+:::::
+
+## Keep it concise
+
+::::: columns
+::: {.column width="60%"}
+-    5 to 10 minutes total, including time for questions.
+-   Aim for around 7–8 minutes of presenting, leaving 2–3 minutes for Q&A.
+    
+:::
+
+::: {.column width="40%"}
+![](../images/fred-clock.png){figure-align="center"}
+:::
+:::::
+
+
+## Focus on key insights    
+::::: columns
+::: {.column width="60%"}
+
+
+-   Highlight the most important aspects of your project.
+-   What problem does it solve?
+-   What was your approach?
+-   What are the key features?
+-   What are the results?
+-   What's next? 
+
+    - Are you handing this project over?
+    - Are you interested in continuing to work on it for your development?
+    
+:::
+
+::: {.column width="40%"}
+![](../images/fred-key.png){figure-align="center"}
+:::
+:::::
+
+## Use visuals
+::::: columns
+::: {.column width="60%"}
+You can use visuals to enhance your presentation including:
+
+  - Screenshots
+  - Charts
+  - Code snippets 
+  
+:::
+
+::: {.column width="40%"}
+![](../images/fred-viz.png){figure-align="center"}
+:::
+:::::
+## Practice and be ready for questions
+::::: columns
+::: {.column width="60%"}
+
+- Rehearse your presentation to ensure smooth delivery.
+
+- Anticipate questions and prepare answers in advance.
+:::
+
+::: {.column width="40%"}
+![](../images/fred-present.png){figure-align="center"}
+:::
+:::::
+## Email your slides to SDT mailbox!
+::::: columns
+::: {.column width="60%"}
+
+-   Make sure to email your slides to the Statistics Development mailbox ASAP (9th Sept latest) so we can prepare for the Stats Awayday.
+- [Statistics.DEVELOPMENT@education.gov.uk](mailto:Statistics.DEVELOPMENT@education.gov.uk)
+:::
+
+::: {.column width="40%"}
+![](../images/fred-email.png){figure-align="center"}
+:::
+:::::
+
+:::notes
+
+- i will need to compile the slides into one pack ready to use for the awayday and send to charlotte foster.
+- Please email your slides to the Statistics Development mailbox by 9th September so we can prepare for the Stats Awayday.
+
+:::
+
+## Let's Get Started!
+::::: columns
+::: {.column width="60%"}
+
+-   Set up a Teams meeting for your Team check-in
+-   This will be followed by 'Hacking session #4' where you can continue development with drop-in sessions available.
+:::
+::: {.column width="40%"}
+![](../images/fred_start.png){figure-align="center"}
+:::
+::::
+
+## Hackathon presentations!
+::::: columns
+::: {.column width="60%"}
+-   Parcipants have worked hard over the last 2 days to develop 4 projects.
+-   It was one team per project
+-   Each team will present for 7-8 minutes followed by 2-3 minutes for questions.
+-   They will also present these at the Stats Awayday on 11th September.
+-   Please remember to email your slides to  [Statistics.DEVELOPMENT@education.gov.uk](mailto:Statistics.DEVELOPMENT@education.gov.uk) by 9th of September.
+-   We value your feedback! Please take a moment to fill out our [anonymous feedback form](https://forms.office.com/e/EpyYsqPaZx).
+:::
+::: {.column width="40%"}
+![](../images/fred-present.png)
+:::
+:::::
+
+
+## Presentation schedule
+
+{{< include ../common_docs/presentations_timings.qmd >}}
+
+## Voting
+
+:::: columns
+::: {.column width="60%"}
+
+-   Use the [Microsoft Form](https://forms.office.com/e/2z86g10qBx) to vote for your favourite projects for each category.
+
+-   Best Innovative Project: Demonstrates innovation in the technology, method, and/or the data used.
+
+-   Best Presentation/Demo: Clear, engaging, and professional delivery of the project.
+:::
+::: {.column width="40%"}
+![](../images/fred-vote.png)
+:::
+::::
+
+## Thank you!
+::::: columns
+::: {.column width="60%"}
+-   Thank you to everyone for taking time out of your busy schedules to join us!
+-   I hope you got to develop new skills, learn from each other, network, and have fun!
+-   Special thanks to our volunteers for their invaluable support.
+-   We look forward to seeing your projects at the Stats Awayday on 11th September.
+-   Please remember to email your slides to  [Statistics.DEVELOPMENT@education.gov.uk](mailto:Statistics.DEVELOPMENT@education.gov.uk) by 9th of September.
+-   We value your feedback! Please take a moment to fill out our [anonymous feedback form](https://forms.office.com/e/EpyYsqPaZx).
+:::
+::: {.column width="40%"}
+![](../images/fred-thankyou.png)
+:::
+:::::
+
