@@ -208,6 +208,22 @@ You can use visuals to enhance your presentation including:
 :::
 ::::
 
+## Hackathon presentations!
+::::: columns
+::: {.column width="60%"}
+-   Parcipants have worked hard over the last 2 days to develop 4 projects.
+-   It was one team per project
+-   Each team will present for 7-8 minutes followed by 2-3 minutes for questions.
+-   They will also present these at the Stats Awayday on 11th September.
+-   Please remember to email your slides to  [Statistics.DEVELOPMENT@education.gov.uk](mailto:Statistics.DEVELOPMENT@education.gov.uk) by 9th of September.
+-   We value your feedback! Please take a moment to fill out our [anonymous feedback form](https://forms.office.com/e/EpyYsqPaZx).
+:::
+::: {.column width="40%"}
+![](../images/fred-present.png)
+:::
+:::::
+
+
 ## Presentation schedule
 
 {{< include ../common_docs/presentations_timings.qmd >}}
@@ -231,7 +247,8 @@ You can use visuals to enhance your presentation including:
 ## Thank you!
 ::::: columns
 ::: {.column width="60%"}
--   Thank you for your hard work and creativity over the past two days!
+-   Thank you to everyone for taking time out of your busy schedules to join us!
+-   I hope you got to develop new skills, learn from each other, network, and have fun!
 -   Special thanks to our volunteers for their invaluable support.
 -   We look forward to seeing your projects at the Stats Awayday on 11th September.
 -   Please remember to email your slides to  [Statistics.DEVELOPMENT@education.gov.uk](mailto:Statistics.DEVELOPMENT@education.gov.uk) by 9th of September.

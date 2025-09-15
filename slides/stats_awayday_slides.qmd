@@ -8,7 +8,7 @@ title-slide-attributes:
 author: "Menna Zayed"
 institute: Department for Education
 format:
-  revealjs:
+  pptx:
    theme: [dark, ../dfe-quarto-slides.scss]
    width: 1060
    height: 900
